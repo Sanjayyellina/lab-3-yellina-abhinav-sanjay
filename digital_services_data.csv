@@ -1,0 +1,1001 @@
+user_id,TimeTaken,UserSatisfaction,Age,DisabilityStatus,DigitalLiteracy,Gender,EmploymentStatus,EducationLevel,InternetAccess,ErrorRates,RequestedHelp,SatisfactionOtherServices,WillingnessFutureUse,ReceivesSocialServices,Agency
+2,919,4,38,0,5,Female,Retired,Some College,Broadband,1,0,6,10,0,Department of Health and Human Services
+9,759,10,78,0,5,Male,Employed,High School,Broadband,1,0,3,8,0,Department of Public Safety
+13,853,8,45,0,3,Female,Unemployed,Bachelor,Broadband,2,0,6,10,0,Department of Education
+15,503,4,66,0,3,Male,Student,Bachelor,Broadband,1,0,2,1,0,Department of Public Safety
+25,857,7,69,0,1,Female,Employed,Some College,Mobile Data,4,0,3,1,0,Department of Education
+36,534,10,22,0,5,Female,Employed,Bachelor,Mobile Data,0,0,6,7,0,Department of Housing
+59,999,1,59,0,1,Male,Unemployed,Graduate,Broadband,2,0,7,3,0,Department of Education
+60,1433,7,77,0,4,Female,Employed,Some College,Mobile Data,0,0,1,4,0,Department of Health and Human Services
+64,901,1,19,0,2,Female,Unemployed,High School,Mobile Data,5,0,3,6,0,Department of Health and Human Services
+65,1264,1,24,0,1,Female,Employed,Graduate,Broadband,2,0,5,1,0,Department of Housing
+67,818,8,20,0,2,Male,Employed,High School,Broadband,5,0,10,5,0,Department of Education
+78,870,10,72,0,4,Male,Retired,Some College,Mobile Data,3,0,10,6,0,Department of Housing
+80,364,5,54,0,4,Male,Student,Graduate,Mobile Data,0,0,1,2,0,Department of Housing
+88,939,5,23,0,4,Female,Employed,Bachelor,Broadband,2,0,9,7,0,Department of Housing
+101,355,8,72,0,3,Female,Student,Bachelor,Broadband,4,0,5,2,0,Department of Education
+102,1014,6,70,0,2,Male,Employed,High School,Broadband,5,0,3,1,0,Department of Health and Human Services
+104,779,4,47,0,3,Male,Employed,High School,Mobile Data,0,0,4,7,0,Department of Housing
+107,1586,3,21,0,1,Female,Employed,High School,Broadband,5,0,6,10,0,Department of Housing
+109,1157,8,55,0,5,Male,Employed,High School,No Internet,0,0,8,5,0,Department of Housing
+126,1497,3,22,0,4,Male,Employed,Graduate,Broadband,1,0,8,4,0,Department of Housing
+128,1090,1,78,0,1,Female,Employed,High School,Mobile Data,4,0,8,10,0,Department of Public Safety
+131,375,8,26,0,2,Female,Employed,Graduate,Broadband,4,0,7,5,0,Department of Education
+138,1043,1,61,0,3,Female,Employed,Some College,Mobile Data,4,0,7,6,0,Department of Public Safety
+141,1148,8,19,0,5,Male,Unemployed,Graduate,No Internet,1,0,1,2,0,Department of Housing
+144,1195,1,61,0,1,Female,Employed,High School,Mobile Data,3,0,5,5,0,Department of Housing
+146,955,10,38,0,4,Male,Retired,Bachelor,Broadband,0,0,10,10,0,Department of Education
+147,589,7,41,0,4,Male,Employed,Some College,Broadband,1,0,8,3,0,Department of Public Safety
+158,862,3,73,0,4,Male,Employed,Bachelor,Broadband,0,0,9,7,0,Department of Education
+162,1256,5,38,0,3,Male,Student,Bachelor,Broadband,3,0,2,8,0,Department of Public Safety
+166,1144,6,58,0,1,Male,Employed,Bachelor,Broadband,5,0,2,8,0,Department of Housing
+167,1387,1,68,0,2,Male,Employed,Some College,No Internet,1,0,4,5,0,Department of Education
+174,1062,3,65,0,2,Female,Retired,Some College,Broadband,5,0,3,7,0,Department of Housing
+175,1103,7,39,0,3,Female,Retired,Graduate,Broadband,3,0,5,3,0,Department of Public Safety
+184,1465,4,50,0,1,Male,Retired,High School,Mobile Data,5,0,8,4,0,Department of Health and Human Services
+190,866,1,52,0,4,Male,Student,Some College,No Internet,0,0,1,7,0,Department of Health and Human Services
+191,706,9,57,0,4,Male,Student,Some College,Mobile Data,3,0,6,9,0,Department of Education
+195,1012,1,56,0,2,Male,Unemployed,Graduate,Mobile Data,3,0,6,6,0,Department of Education
+198,1066,10,37,0,5,Female,Employed,Graduate,Mobile Data,1,0,6,2,0,Department of Public Safety
+201,1247,1,25,0,1,Male,Employed,Some College,Mobile Data,4,0,3,5,0,Department of Housing
+202,1008,10,72,0,4,Female,Employed,High School,Mobile Data,0,0,2,8,0,Department of Education
+205,727,1,21,0,1,Female,Student,Bachelor,Mobile Data,5,0,3,2,0,Department of Housing
+209,1415,4,55,0,2,Male,Employed,High School,Mobile Data,5,0,10,10,0,Department of Health and Human Services
+213,1486,1,74,0,1,Female,Employed,Some College,Broadband,5,0,3,4,0,Department of Health and Human Services
+220,805,5,29,0,3,Male,Unemployed,Bachelor,Broadband,2,0,9,9,0,Department of Education
+221,1774,8,34,0,2,Female,Employed,Graduate,Broadband,3,0,5,7,0,Department of Public Safety
+224,296,6,52,0,3,Female,Employed,Some College,Broadband,0,0,8,10,0,Department of Education
+229,925,4,68,0,4,Male,Retired,Graduate,Mobile Data,3,0,9,9,0,Department of Health and Human Services
+235,1303,10,76,0,5,Female,Employed,Some College,Broadband,2,0,8,4,0,Department of Education
+243,1231,5,70,0,3,Female,Employed,Bachelor,Broadband,0,0,2,6,0,Department of Health and Human Services
+246,980,3,52,0,4,Male,Unemployed,Some College,Mobile Data,0,0,2,3,0,Department of Public Safety
+247,638,1,36,0,3,Female,Unemployed,High School,Broadband,4,0,8,6,0,Department of Education
+248,1004,1,47,0,3,Female,Retired,Some College,Mobile Data,1,0,9,5,0,Department of Health and Human Services
+250,961,8,76,0,4,Male,Employed,Some College,Mobile Data,2,0,4,6,0,Department of Education
+258,868,4,55,0,2,Male,Employed,Bachelor,Mobile Data,5,0,10,7,0,Department of Housing
+265,944,10,68,0,4,Female,Unemployed,Bachelor,Broadband,0,0,3,6,0,Department of Health and Human Services
+269,1368,1,26,0,1,Male,Employed,High School,No Internet,6,0,9,6,0,Department of Health and Human Services
+272,769,1,62,0,2,Male,Student,Bachelor,Mobile Data,3,0,7,10,0,Department of Public Safety
+274,1203,4,31,0,1,Male,Retired,Graduate,Broadband,2,0,4,1,0,Department of Health and Human Services
+278,840,1,72,0,1,Female,Employed,Bachelor,Broadband,5,0,9,8,0,Department of Housing
+281,1054,2,36,0,1,Non-binary,Student,Some College,Broadband,6,0,8,5,0,Department of Housing
+282,1099,3,64,0,1,Female,Student,Some College,Broadband,2,0,8,8,0,Department of Education
+284,649,2,31,0,3,Female,Employed,Bachelor,Broadband,1,0,10,9,0,Department of Public Safety
+286,74,8,55,0,5,Male,Employed,Bachelor,Broadband,0,0,7,5,0,Department of Education
+287,1094,4,70,0,3,Male,Retired,Bachelor,Mobile Data,4,0,10,10,0,Department of Public Safety
+291,1018,4,34,0,3,Male,Employed,Some College,Broadband,2,0,8,8,0,Department of Health and Human Services
+300,1149,6,70,0,2,Female,Employed,Some College,Broadband,5,0,7,3,0,Department of Housing
+301,711,9,52,0,4,Male,Employed,Graduate,Mobile Data,2,0,3,7,0,Department of Housing
+306,1235,5,58,0,1,Female,Unemployed,Some College,Broadband,3,0,2,6,0,Department of Health and Human Services
+311,1015,7,25,0,3,Female,Employed,High School,Broadband,3,0,5,7,0,Department of Health and Human Services
+314,1384,5,78,0,1,Female,Retired,High School,Broadband,5,0,8,9,0,Department of Public Safety
+317,1225,8,58,0,4,Male,Employed,Graduate,Broadband,2,0,6,8,0,Department of Health and Human Services
+321,1109,10,46,0,4,Male,Employed,Some College,Mobile Data,0,0,8,5,0,Department of Public Safety
+322,1139,10,79,0,5,Female,Unemployed,Bachelor,Broadband,2,0,1,4,0,Department of Health and Human Services
+325,478,8,47,0,3,Female,Employed,Graduate,Broadband,1,0,2,1,0,Department of Education
+331,1076,1,38,0,2,Female,Employed,Bachelor,Mobile Data,3,0,6,8,0,Department of Housing
+340,1031,8,70,0,5,Male,Employed,Graduate,No Internet,0,0,3,3,0,Department of Public Safety
+341,713,8,78,0,2,Male,Employed,Bachelor,Broadband,4,0,7,4,0,Department of Housing
+348,478,2,51,0,3,Female,Employed,Some College,Mobile Data,2,0,10,5,0,Department of Education
+352,1343,2,25,0,3,Female,Employed,High School,Broadband,2,0,10,5,0,Department of Housing
+355,1074,4,64,0,2,Male,Employed,Some College,Broadband,5,0,1,1,0,Department of Public Safety
+357,954,9,29,0,5,Male,Employed,Some College,Broadband,0,0,5,8,0,Department of Health and Human Services
+360,952,6,63,0,2,Female,Student,Graduate,Mobile Data,2,0,2,2,0,Department of Public Safety
+362,1120,10,32,0,5,Male,Unemployed,Some College,Broadband,0,0,8,10,0,Department of Education
+374,1248,8,74,0,2,Female,Employed,Some College,Mobile Data,2,0,9,6,0,Department of Education
+377,1042,8,21,0,3,Male,Student,Some College,Broadband,2,0,8,7,0,Department of Education
+378,1135,2,72,0,2,Male,Retired,Some College,Broadband,4,0,7,3,0,Department of Public Safety
+387,763,4,39,0,5,Female,Employed,Some College,Broadband,0,0,8,4,0,Department of Education
+406,1087,6,23,0,3,Male,Unemployed,High School,Broadband,3,0,4,5,0,Department of Housing
+408,617,6,44,0,5,Female,Employed,High School,Broadband,0,0,5,3,0,Department of Education
+409,1056,8,25,0,4,Male,Employed,Bachelor,Broadband,2,0,1,1,0,Department of Health and Human Services
+416,855,2,62,0,2,Female,Employed,Bachelor,Broadband,4,0,6,10,0,Department of Public Safety
+417,1665,1,66,0,1,Female,Employed,Bachelor,No Internet,5,0,4,1,0,Department of Education
+418,1115,6,52,0,2,Female,Employed,Graduate,Broadband,3,0,1,1,0,Department of Public Safety
+419,1494,1,57,0,1,Female,Unemployed,Bachelor,Mobile Data,2,0,4,2,0,Department of Housing
+420,1160,5,31,0,1,Female,Student,Bachelor,Broadband,2,0,9,10,0,Department of Public Safety
+425,1214,9,73,0,3,Male,Employed,Graduate,Broadband,4,0,7,9,0,Department of Public Safety
+427,611,10,30,0,3,Female,Employed,Graduate,Broadband,1,0,6,3,0,Department of Housing
+429,1098,10,55,0,5,Female,Retired,Some College,Broadband,0,0,7,8,0,Department of Housing
+432,528,3,66,0,2,Female,Retired,Some College,Broadband,1,0,7,8,0,Department of Health and Human Services
+434,1475,4,25,0,1,Male,Unemployed,Bachelor,Mobile Data,22,0,4,1,0,Department of Public Safety
+437,1569,6,77,0,3,Male,Employed,Some College,Broadband,2,0,1,7,0,Department of Health and Human Services
+438,606,5,50,0,3,Non-binary,Unemployed,Bachelor,Mobile Data,1,0,2,6,0,Department of Housing
+439,509,1,43,0,1,Female,Employed,Bachelor,Broadband,6,0,4,1,0,Department of Housing
+441,1195,7,38,0,2,Female,Employed,Some College,Mobile Data,4,0,3,8,0,Department of Housing
+444,753,5,79,0,3,Female,Employed,Some College,Broadband,3,0,6,10,0,Department of Education
+447,950,8,71,0,4,Female,Student,Some College,Broadband,1,0,4,2,0,Department of Housing
+451,821,3,41,0,4,Female,Employed,High School,Broadband,2,0,10,6,0,Department of Housing
+459,554,4,76,0,4,Female,Retired,Bachelor,Broadband,0,0,6,2,0,Department of Education
+460,481,4,56,0,4,Female,Unemployed,High School,Broadband,3,0,4,7,0,Department of Housing
+466,894,3,63,0,4,Female,Employed,High School,Broadband,3,0,1,2,0,Department of Public Safety
+473,265,9,57,0,4,Female,Employed,High School,Broadband,3,0,3,1,0,Department of Education
+474,1190,9,61,0,5,Female,Employed,Some College,Broadband,0,0,7,9,0,Department of Housing
+479,1704,7,78,0,5,Male,Unemployed,Some College,Broadband,0,0,3,6,0,Department of Housing
+485,673,3,50,0,3,Male,Student,Some College,Broadband,4,0,4,4,0,Department of Housing
+488,636,9,56,0,5,Female,Unemployed,Some College,Broadband,0,0,10,10,0,Department of Health and Human Services
+492,1344,10,25,0,5,Female,Employed,High School,Mobile Data,2,0,2,2,0,Department of Housing
+495,1177,4,63,0,4,Male,Employed,Some College,Broadband,3,0,2,2,0,Department of Education
+499,877,6,64,0,4,Female,Employed,Bachelor,Mobile Data,2,0,3,1,0,Department of Health and Human Services
+501,1178,10,66,0,3,Male,Student,Bachelor,Broadband,3,0,5,8,0,Department of Housing
+502,1533,8,64,0,2,Female,Employed,Some College,Broadband,2,0,5,7,0,Department of Housing
+508,881,3,47,0,4,Male,Student,High School,Mobile Data,2,0,2,3,0,Department of Health and Human Services
+511,861,3,35,0,3,Male,Employed,Some College,Broadband,3,0,4,3,0,Department of Education
+515,787,10,45,0,4,Male,Unemployed,High School,Broadband,2,0,8,10,0,Department of Public Safety
+516,1127,2,57,0,1,Male,Unemployed,Bachelor,Broadband,6,0,4,1,0,Department of Education
+519,1170,4,50,0,2,Female,Student,Graduate,Broadband,1,0,1,2,0,Department of Health and Human Services
+524,1251,3,58,0,2,Female,Employed,High School,Broadband,4,0,8,3,0,Department of Public Safety
+530,569,2,19,0,2,Female,Employed,High School,Broadband,5,0,9,9,0,Department of Education
+532,462,2,28,0,2,Female,Student,High School,Broadband,5,0,9,9,0,Department of Housing
+534,717,8,27,0,3,Male,Retired,Some College,No Internet,3,0,1,2,0,Department of Education
+537,882,1,68,0,1,Female,Employed,Some College,Broadband,6,0,8,5,0,Department of Public Safety
+541,1271,6,56,0,5,Female,Unemployed,High School,Mobile Data,0,0,2,1,0,Department of Public Safety
+548,959,3,19,0,4,Male,Unemployed,Graduate,Broadband,0,0,2,5,0,Department of Health and Human Services
+559,1618,1,29,0,1,Female,Employed,Graduate,No Internet,6,0,10,10,0,Department of Health and Human Services
+565,1140,10,32,0,5,Female,Employed,Some College,Mobile Data,2,0,2,5,0,Department of Education
+567,529,6,54,0,2,Male,Employed,High School,Broadband,4,0,7,10,0,Department of Health and Human Services
+568,658,4,38,0,2,Non-binary,Employed,Some College,Broadband,1,0,10,10,0,Department of Housing
+571,1146,7,48,0,3,Female,Student,High School,Mobile Data,1,0,9,6,0,Department of Public Safety
+577,1031,10,45,0,5,Male,Employed,Some College,Broadband,2,0,1,4,0,Department of Health and Human Services
+579,576,10,71,0,4,Male,Employed,Some College,Broadband,0,0,7,3,0,Department of Health and Human Services
+580,1363,8,60,0,3,Male,Employed,Some College,Broadband,2,0,8,6,0,Department of Public Safety
+584,1641,4,62,0,2,Female,Employed,Bachelor,Broadband,5,0,7,5,0,Department of Housing
+588,885,7,55,0,4,Male,Student,Some College,Mobile Data,1,0,9,7,0,Department of Health and Human Services
+590,943,2,47,0,1,Female,Retired,High School,Broadband,3,0,7,7,0,Department of Health and Human Services
+591,1221,5,77,0,5,Female,Unemployed,Graduate,No Internet,2,0,8,9,0,Department of Public Safety
+594,1060,1,49,0,2,Female,Employed,Bachelor,Broadband,2,0,1,2,0,Department of Housing
+597,1119,4,45,0,1,Male,Employed,Bachelor,Broadband,2,0,8,5,0,Department of Health and Human Services
+609,486,7,71,0,1,Male,Student,Bachelor,Broadband,2,0,7,8,0,Department of Housing
+616,1179,8,73,0,2,Female,Employed,High School,Broadband,3,0,1,1,0,Department of Health and Human Services
+617,1053,6,45,0,1,Female,Employed,Bachelor,Broadband,5,0,1,1,0,Department of Housing
+619,1104,4,24,0,4,Male,Student,Graduate,Broadband,0,0,5,7,0,Department of Public Safety
+621,723,9,54,0,2,Male,Retired,Some College,Mobile Data,3,0,7,6,0,Department of Education
+622,1281,1,73,0,1,Male,Employed,High School,Broadband,6,0,2,1,0,Department of Public Safety
+624,1484,10,18,0,4,Female,Employed,Bachelor,Mobile Data,0,0,1,4,0,Department of Public Safety
+642,1581,10,55,0,4,Male,Retired,Bachelor,Mobile Data,1,0,4,9,0,Department of Public Safety
+652,1358,7,48,0,4,Female,Employed,Graduate,Broadband,0,0,9,10,0,Department of Health and Human Services
+653,999,7,21,0,2,Female,Retired,Some College,Broadband,4,0,5,4,0,Department of Public Safety
+656,1158,4,67,0,3,Male,Employed,Some College,Mobile Data,1,0,2,5,0,Department of Public Safety
+657,904,3,22,0,3,Female,Employed,High School,Broadband,3,0,9,10,0,Department of Housing
+666,872,10,43,0,4,Male,Retired,Some College,Broadband,2,0,1,6,0,Department of Housing
+667,824,3,44,0,1,Female,Employed,High School,Broadband,3,0,10,9,0,Department of Education
+668,1771,1,63,0,1,Male,Retired,High School,Mobile Data,5,0,8,5,0,Department of Health and Human Services
+675,778,3,23,0,3,Male,Employed,Some College,Mobile Data,1,0,5,7,0,Department of Health and Human Services
+678,1546,7,32,0,5,Male,Employed,Some College,Mobile Data,0,0,10,8,0,Department of Public Safety
+686,994,5,59,0,3,Female,Employed,Graduate,Broadband,0,0,3,3,0,Department of Education
+687,708,7,77,0,5,Male,Employed,Some College,Broadband,0,0,5,9,0,Department of Housing
+694,1145,3,77,0,4,Male,Retired,Bachelor,Mobile Data,2,0,8,10,0,Department of Housing
+696,1047,1,66,0,1,Female,Employed,Graduate,Broadband,2,0,3,1,0,Department of Public Safety
+697,1418,4,46,0,1,Female,Retired,Some College,Mobile Data,9,0,7,9,0,Department of Health and Human Services
+699,997,10,76,0,4,Female,Employed,Graduate,Broadband,0,0,1,7,0,Department of Education
+713,797,10,30,0,5,Male,Employed,Some College,Broadband,1,0,2,8,0,Department of Health and Human Services
+720,763,5,68,0,3,Male,Retired,Some College,Broadband,0,0,9,7,0,Department of Education
+721,992,10,20,0,5,Female,Retired,High School,Broadband,2,0,4,3,0,Department of Public Safety
+724,1183,9,49,0,4,Male,Employed,Some College,Mobile Data,2,0,6,6,0,Department of Housing
+729,798,4,38,0,4,Female,Employed,Some College,Broadband,3,0,5,4,0,Department of Public Safety
+732,726,4,38,0,3,Female,Unemployed,Graduate,Broadband,3,0,10,10,0,Department of Public Safety
+734,569,3,28,0,3,Male,Employed,Graduate,Broadband,4,0,7,8,0,Department of Health and Human Services
+738,1495,2,18,0,1,Male,Student,Some College,Broadband,2,0,10,10,0,Department of Health and Human Services
+740,1324,10,41,0,4,Female,Employed,High School,Broadband,0,0,6,5,0,Department of Health and Human Services
+746,862,8,28,0,2,Male,Employed,Some College,Broadband,3,0,6,6,0,Department of Public Safety
+752,614,3,77,0,4,Female,Employed,Some College,Broadband,0,0,9,6,0,Department of Health and Human Services
+754,1036,5,57,0,4,Male,Student,Bachelor,Broadband,3,0,3,6,0,Department of Education
+762,817,10,38,0,3,Female,Employed,Bachelor,Broadband,2,0,4,3,0,Department of Education
+766,629,10,34,0,4,Non-binary,Employed,Graduate,Broadband,1,0,2,8,0,Department of Housing
+767,1010,6,54,0,1,Female,Employed,Bachelor,Broadband,3,0,3,5,0,Department of Housing
+775,967,4,71,0,5,Male,Employed,Some College,Broadband,0,0,4,7,0,Department of Housing
+777,802,1,64,0,1,Female,Employed,Graduate,Broadband,4,0,9,4,0,Department of Housing
+778,886,7,29,0,4,Male,Employed,High School,Broadband,0,0,6,10,0,Department of Public Safety
+781,1253,1,71,0,3,Male,Employed,Some College,No Internet,1,0,5,1,0,Department of Housing
+788,1338,1,37,0,1,Female,Employed,Bachelor,Broadband,2,0,6,10,0,Department of Health and Human Services
+789,639,7,58,0,5,Female,Student,Bachelor,Broadband,2,0,5,7,0,Department of Education
+790,642,1,63,0,1,Non-binary,Employed,Bachelor,Broadband,3,0,4,6,0,Department of Public Safety
+815,1330,10,28,0,5,Female,Employed,High School,Mobile Data,0,0,3,1,0,Department of Public Safety
+816,574,10,74,0,5,Male,Retired,Some College,Mobile Data,0,0,6,4,0,Department of Public Safety
+828,863,5,64,0,1,Male,Employed,Bachelor,Broadband,3,0,8,4,0,Department of Housing
+829,774,7,21,0,1,Male,Employed,High School,Broadband,4,0,2,6,0,Department of Education
+832,864,1,52,0,1,Female,Employed,High School,Broadband,6,0,1,1,0,Department of Public Safety
+833,719,6,65,0,5,Male,Employed,Bachelor,Mobile Data,2,0,7,10,0,Department of Public Safety
+838,840,1,34,0,1,Female,Employed,High School,Broadband,4,0,3,4,0,Department of Public Safety
+851,1313,4,63,0,1,Non-binary,Employed,Some College,No Internet,3,0,3,5,0,Department of Health and Human Services
+853,829,5,48,0,3,Male,Student,Graduate,Broadband,2,0,8,5,0,Department of Public Safety
+865,656,5,59,0,4,Female,Retired,Some College,Mobile Data,2,0,10,6,0,Department of Education
+869,1098,3,29,0,3,Female,Employed,High School,Broadband,3,0,9,5,0,Department of Housing
+870,1443,7,19,0,4,Non-binary,Retired,High School,Mobile Data,1,0,3,1,0,Department of Education
+874,681,2,73,0,1,Male,Unemployed,Bachelor,Broadband,6,0,7,4,0,Department of Education
+876,1438,5,74,0,3,Male,Employed,Bachelor,Broadband,4,0,4,1,0,Department of Housing
+882,681,6,25,0,2,Male,Employed,Graduate,Broadband,2,0,7,7,0,Department of Education
+883,753,5,43,0,5,Female,Employed,Graduate,Mobile Data,1,0,8,6,0,Department of Housing
+893,1580,1,54,0,2,Male,Unemployed,Bachelor,No Internet,3,0,7,7,0,Department of Housing
+896,1335,3,54,0,2,Male,Employed,Bachelor,Broadband,5,0,2,4,0,Department of Health and Human Services
+902,1022,1,26,0,1,Non-binary,Employed,High School,Mobile Data,3,0,10,9,0,Department of Housing
+904,1524,10,53,0,4,Female,Employed,Some College,Mobile Data,0,0,6,6,0,Department of Health and Human Services
+907,912,8,57,0,3,Female,Retired,Some College,No Internet,2,0,4,1,0,Department of Public Safety
+908,1124,10,40,0,5,Female,Employed,Bachelor,Broadband,0,0,4,3,0,Department of Public Safety
+913,915,3,21,0,2,Female,Employed,Bachelor,Broadband,1,0,7,3,0,Department of Education
+915,871,10,48,0,3,Male,Employed,Some College,Broadband,3,0,5,3,0,Department of Housing
+916,924,8,55,0,2,Male,Unemployed,Graduate,Broadband,2,0,6,5,0,Department of Education
+925,1199,6,49,0,4,Male,Retired,High School,Mobile Data,0,0,2,1,0,Department of Education
+926,623,8,51,0,3,Male,Employed,Some College,Broadband,4,0,3,2,0,Department of Health and Human Services
+934,420,9,57,0,2,Male,Retired,High School,Broadband,3,0,1,1,0,Department of Public Safety
+947,802,6,73,0,5,Male,Employed,Bachelor,No Internet,2,0,2,1,0,Department of Health and Human Services
+950,1213,1,77,0,3,Male,Retired,Graduate,Mobile Data,0,0,10,9,0,Department of Public Safety
+952,886,5,56,0,3,Male,Employed,Bachelor,Broadband,3,0,7,4,0,Department of Education
+953,705,3,20,0,2,Male,Student,High School,Mobile Data,3,0,1,1,0,Department of Housing
+959,1191,3,72,0,4,Male,Employed,Some College,Broadband,0,0,10,10,0,Department of Health and Human Services
+960,1094,4,44,0,5,Male,Unemployed,High School,Broadband,0,0,8,8,0,Department of Health and Human Services
+961,1093,8,71,0,3,Male,Employed,Bachelor,Mobile Data,0,0,10,10,0,Department of Education
+964,1113,10,70,0,5,Female,Employed,Some College,Mobile Data,0,0,10,8,0,Department of Housing
+965,753,7,56,0,3,Female,Employed,High School,Broadband,0,0,4,8,0,Department of Education
+968,1560,3,58,0,4,Male,Employed,High School,Broadband,3,0,5,1,0,Department of Health and Human Services
+970,651,6,70,0,3,Male,Unemployed,High School,Broadband,4,0,8,10,0,Department of Health and Human Services
+985,1019,8,27,0,4,Female,Retired,Some College,Broadband,2,0,7,9,0,Department of Health and Human Services
+990,1208,1,69,0,1,Female,Employed,Some College,Broadband,4,0,7,10,0,Department of Health and Human Services
+5,890,5,69,0,2,Male,Employed,High School,Broadband,1,1,1,3,0,Department of Education
+11,701,4,57,0,4,Female,Retired,Some College,Broadband,1,1,8,9,0,Department of Education
+12,880,10,75,0,5,Male,Employed,Graduate,Mobile Data,0,1,8,6,0,Department of Housing
+32,1636,6,76,0,5,Female,Employed,Bachelor,Broadband,0,1,7,9,0,Department of Health and Human Services
+61,1176,1,37,0,1,Female,Employed,Bachelor,Broadband,3,1,1,5,0,Department of Health and Human Services
+94,1342,1,29,0,1,Male,Employed,High School,Mobile Data,1,1,7,10,0,Department of Health and Human Services
+108,1132,1,45,0,2,Male,Employed,Graduate,Broadband,4,1,7,5,0,Department of Housing
+112,1252,2,76,0,2,Male,Employed,Bachelor,Broadband,2,1,10,10,0,Department of Health and Human Services
+120,1366,10,42,0,3,Female,Retired,Bachelor,Mobile Data,0,1,1,6,0,Department of Housing
+130,689,3,46,0,4,Male,Employed,High School,Broadband,2,1,1,1,0,Department of Education
+132,1041,9,69,0,5,Female,Employed,Graduate,Broadband,1,1,6,6,0,Department of Public Safety
+133,821,4,55,0,3,Male,Employed,Some College,Broadband,0,1,5,9,0,Department of Public Safety
+134,1402,10,67,0,4,Female,Employed,High School,Mobile Data,2,1,1,5,0,Department of Health and Human Services
+142,1472,8,64,0,4,Female,Employed,Bachelor,Broadband,2,1,9,6,0,Department of Public Safety
+145,1338,1,26,0,1,Male,Employed,Bachelor,Broadband,2,1,2,4,0,Department of Public Safety
+155,1048,4,65,0,2,Male,Retired,High School,Broadband,2,1,6,10,0,Department of Education
+180,2136,8,47,0,3,Male,Employed,Some College,Mobile Data,3,1,6,5,0,Department of Health and Human Services
+212,1361,5,52,0,5,Female,Student,Bachelor,Broadband,0,1,5,7,0,Department of Public Safety
+219,814,10,53,0,4,Female,Employed,Bachelor,Mobile Data,0,1,7,10,0,Department of Education
+234,885,1,40,0,2,Male,Employed,High School,Broadband,3,1,8,10,0,Department of Housing
+249,1610,5,31,0,4,Male,Unemployed,Some College,Broadband,0,1,7,4,0,Department of Public Safety
+271,1632,5,37,0,2,Male,Employed,Some College,Broadband,3,1,4,6,0,Department of Public Safety
+288,1256,6,78,0,5,Female,Employed,Some College,Broadband,0,1,6,6,0,Department of Health and Human Services
+309,1304,6,21,0,4,Male,Unemployed,High School,Broadband,1,1,9,10,0,Department of Health and Human Services
+318,1047,8,73,0,4,Female,Employed,Graduate,Broadband,1,1,3,5,0,Department of Health and Human Services
+338,1164,3,61,0,2,Female,Employed,Bachelor,Broadband,4,1,3,4,0,Department of Health and Human Services
+354,1152,6,40,0,2,Female,Employed,Graduate,Broadband,3,1,4,3,0,Department of Public Safety
+356,599,4,57,0,5,Female,Employed,High School,Broadband,1,1,4,1,0,Department of Housing
+376,1030,7,68,0,3,Female,Student,High School,Mobile Data,0,1,5,4,0,Department of Public Safety
+396,1179,1,25,0,1,Male,Unemployed,High School,Broadband,4,1,2,1,0,Department of Health and Human Services
+401,782,5,42,0,1,Female,Employed,Bachelor,Broadband,2,1,6,3,0,Department of Public Safety
+405,1185,2,29,0,2,Female,Employed,Some College,Mobile Data,4,1,2,6,0,Department of Public Safety
+410,1414,3,36,0,1,Male,Employed,Bachelor,Broadband,1,1,9,6,0,Department of Public Safety
+456,662,4,41,0,3,Female,Employed,Some College,Broadband,0,1,5,3,0,Department of Education
+470,907,10,63,0,4,Female,Employed,Some College,Broadband,2,1,1,1,0,Department of Public Safety
+486,353,10,62,0,5,Female,Employed,Bachelor,Broadband,1,1,4,9,0,Department of Education
+487,1186,9,43,0,2,Female,Employed,Some College,Mobile Data,4,1,2,3,0,Department of Health and Human Services
+518,967,5,66,0,2,Female,Employed,High School,No Internet,3,1,10,8,0,Department of Education
+533,1060,4,30,0,4,Female,Retired,Some College,Broadband,0,1,4,2,0,Department of Public Safety
+549,1251,1,46,0,1,Male,Unemployed,High School,Broadband,2,1,7,9,0,Department of Housing
+551,1286,7,20,0,3,Female,Employed,Graduate,Mobile Data,0,1,9,8,0,Department of Public Safety
+583,1570,1,52,0,1,Female,Employed,High School,Mobile Data,2,1,4,3,0,Department of Public Safety
+595,1691,2,20,0,1,Female,Employed,Bachelor,Mobile Data,1,1,6,10,0,Department of Public Safety
+600,1193,7,58,0,5,Male,Unemployed,Bachelor,Broadband,0,1,8,8,0,Department of Health and Human Services
+601,1247,1,40,0,1,Female,Employed,Some College,Broadband,1,1,6,6,0,Department of Education
+620,1027,3,21,0,4,Female,Student,Bachelor,Broadband,0,1,3,1,0,Department of Housing
+625,1438,7,64,0,4,Male,Employed,High School,Mobile Data,0,1,8,6,0,Department of Education
+626,867,7,37,0,3,Female,Unemployed,High School,Broadband,0,1,2,5,0,Department of Housing
+628,1102,5,46,0,1,Female,Student,High School,Broadband,2,1,9,4,0,Department of Housing
+630,1468,10,77,0,5,Male,Employed,Some College,Mobile Data,0,1,2,2,0,Department of Public Safety
+633,793,9,52,0,4,Female,Retired,Graduate,Broadband,0,1,10,6,0,Department of Education
+641,979,7,66,0,2,Male,Employed,High School,Mobile Data,0,1,10,5,0,Department of Education
+670,1407,7,60,0,2,Female,Employed,High School,Broadband,4,1,8,8,0,Department of Housing
+681,1177,10,59,0,4,Male,Employed,High School,Broadband,0,1,4,4,0,Department of Housing
+691,1092,4,23,0,2,Female,Student,Some College,Broadband,0,1,5,6,0,Department of Public Safety
+693,456,10,35,0,5,Male,Employed,Bachelor,Broadband,0,1,9,7,0,Department of Education
+698,885,10,30,0,4,Male,Employed,Graduate,Mobile Data,1,1,1,2,0,Department of Health and Human Services
+702,1635,8,69,0,5,Female,Employed,Some College,No Internet,0,1,6,9,0,Department of Public Safety
+714,1200,9,51,0,4,Male,Employed,High School,Mobile Data,0,1,3,8,0,Department of Housing
+715,1069,10,62,0,5,Male,Unemployed,Bachelor,Broadband,0,1,9,10,0,Department of Health and Human Services
+717,1654,4,70,0,1,Male,Employed,Bachelor,No Internet,5,1,6,6,0,Department of Health and Human Services
+744,1148,7,64,0,3,Female,Employed,Some College,Mobile Data,2,1,2,4,0,Department of Housing
+758,1195,3,75,0,3,Non-binary,Employed,Graduate,Broadband,1,1,7,9,0,Department of Public Safety
+764,1111,7,45,0,3,Female,Employed,Bachelor,Broadband,2,1,2,8,0,Department of Public Safety
+765,1845,1,22,0,3,Male,Unemployed,High School,No Internet,2,1,4,6,0,Department of Health and Human Services
+770,1684,3,36,0,1,Male,Employed,Some College,Broadband,2,1,10,8,0,Department of Housing
+796,1216,5,36,0,3,Male,Unemployed,Bachelor,Broadband,3,1,1,7,0,Department of Education
+797,1068,8,43,0,4,Female,Employed,Bachelor,Broadband,1,1,3,1,0,Department of Public Safety
+811,1084,6,41,0,4,Female,Employed,Bachelor,Broadband,2,1,5,3,0,Department of Health and Human Services
+814,1439,5,44,0,4,Male,Employed,High School,No Internet,0,1,4,1,0,Department of Public Safety
+818,1167,4,67,0,3,Male,Employed,Some College,Broadband,3,1,8,10,0,Department of Education
+819,985,7,34,0,2,Female,Retired,Some College,Broadband,4,1,1,1,0,Department of Education
+820,1340,8,68,0,3,Male,Employed,Graduate,Broadband,1,1,9,10,0,Department of Housing
+823,1950,1,44,0,2,Female,Student,Some College,No Internet,3,1,10,6,0,Department of Education
+827,1674,5,64,0,2,Female,Employed,High School,Broadband,4,1,2,1,0,Department of Public Safety
+837,1605,4,62,0,1,Male,Employed,Bachelor,Broadband,4,1,5,9,0,Department of Housing
+844,1435,1,36,0,1,Male,Employed,Some College,Broadband,5,1,2,7,0,Department of Health and Human Services
+858,981,5,39,0,4,Male,Employed,Bachelor,Broadband,0,1,2,1,0,Department of Education
+866,964,10,79,0,5,Female,Student,Graduate,Broadband,0,1,2,6,0,Department of Health and Human Services
+880,1317,6,36,0,4,Male,Employed,Some College,Mobile Data,0,1,5,2,0,Department of Education
+881,1958,6,67,0,2,Male,Employed,Bachelor,Mobile Data,2,1,9,8,0,Department of Housing
+884,1333,6,66,0,5,Female,Employed,Graduate,Broadband,0,1,5,10,0,Department of Public Safety
+899,1382,10,25,0,5,Female,Unemployed,Some College,Broadband,0,1,2,2,0,Department of Public Safety
+909,1514,5,26,0,2,Male,Unemployed,High School,Mobile Data,4,1,7,10,0,Department of Public Safety
+912,906,10,31,0,4,Female,Employed,Graduate,Broadband,0,1,8,3,0,Department of Education
+914,1673,2,47,0,3,Male,Employed,High School,Broadband,0,1,2,4,0,Department of Health and Human Services
+929,1730,7,36,0,1,Female,Employed,High School,Broadband,4,1,10,5,0,Department of Public Safety
+933,706,7,19,0,4,Male,Employed,Graduate,Broadband,0,1,3,1,0,Department of Health and Human Services
+935,1152,2,34,0,1,Female,Student,Graduate,Broadband,1,1,5,6,0,Department of Education
+945,1454,6,43,0,5,Female,Employed,Bachelor,Broadband,1,1,2,7,0,Department of Housing
+966,1332,6,18,0,3,Male,Student,Bachelor,Broadband,1,1,6,6,0,Department of Education
+980,1608,1,34,0,1,Male,Retired,Some College,Mobile Data,4,1,8,10,0,Department of Public Safety
+982,1148,1,40,0,1,Female,Employed,High School,Broadband,3,1,4,1,0,Department of Education
+983,1090,1,49,0,1,Female,Student,Graduate,Mobile Data,1,1,9,4,0,Department of Public Safety
+993,1246,4,67,0,1,Male,Retired,High School,Broadband,4,1,9,7,0,Department of Health and Human Services
+997,1859,1,63,0,1,Male,Employed,Bachelor,Broadband,1,1,10,8,0,Department of Health and Human Services
+1,1049,7,57,0,3,Female,Unemployed,Bachelor,Broadband,4,0,7,4,0,Department of Housing
+24,713,9,59,0,4,Male,Employed,Bachelor,Broadband,2,0,8,6,0,Department of Public Safety
+44,1230,2,77,0,1,Male,Employed,Some College,Broadband,18,0,2,5,0,Department of Public Safety
+63,928,6,29,0,2,Male,Employed,Some College,Mobile Data,17,0,4,1,0,Department of Housing
+76,1267,7,45,0,4,Male,Employed,Bachelor,Broadband,5,0,4,6,0,Department of Housing
+93,989,9,26,1,4,Male,Unemployed,Some College,Broadband,5,0,6,9,0,Department of Health and Human Services
+100,1130,2,62,1,1,Male,Employed,High School,Mobile Data,4,0,2,1,0,Department of Education
+127,903,4,52,1,3,Male,Employed,High School,Broadband,3,0,2,1,0,Department of Public Safety
+135,864,6,23,1,4,Male,Unemployed,Bachelor,Mobile Data,2,0,1,6,0,Department of Housing
+137,1265,1,77,1,1,Female,Student,Graduate,Mobile Data,9,0,10,10,0,Department of Health and Human Services
+189,886,1,19,1,2,Male,Employed,Bachelor,Mobile Data,6,0,1,1,0,Department of Education
+200,797,9,18,1,4,Female,Employed,Some College,Mobile Data,5,0,3,5,0,Department of Housing
+215,1345,7,70,1,5,Female,Unemployed,High School,No Internet,2,0,5,8,0,Department of Health and Human Services
+225,938,3,77,1,3,Male,Employed,Bachelor,Broadband,2,0,4,3,0,Department of Housing
+256,1055,9,31,1,5,Female,Employed,Some College,Mobile Data,3,0,4,1,0,Department of Public Safety
+268,771,1,36,1,1,Male,Employed,Graduate,Broadband,8,0,5,8,0,Department of Housing
+308,783,6,76,1,5,Male,Employed,Some College,Broadband,2,0,6,4,0,Department of Housing
+329,1207,9,63,1,4,Female,Employed,Some College,Broadband,3,0,3,8,0,Department of Housing
+351,1413,1,18,1,1,Female,Retired,Graduate,Broadband,7,0,2,4,0,Department of Public Safety
+413,620,4,18,1,5,Male,Unemployed,Some College,Broadband,3,0,9,9,0,Department of Public Safety
+415,1240,1,46,1,2,Non-binary,Employed,Some College,Broadband,6,0,5,1,0,Department of Housing
+517,1290,3,37,1,4,Female,Employed,Graduate,Broadband,3,0,7,6,0,Department of Public Safety
+526,539,8,19,1,5,Female,Employed,Graduate,Broadband,4,0,5,1,0,Department of Public Safety
+663,1310,1,28,1,1,Male,Employed,Some College,Broadband,6,0,1,1,0,Department of Public Safety
+706,1142,3,65,1,3,Female,Employed,Bachelor,Broadband,6,0,6,4,0,Department of Education
+709,455,3,22,1,5,Male,Employed,Bachelor,Broadband,2,0,3,1,0,Department of Public Safety
+760,1650,1,54,1,2,Male,Retired,Some College,Mobile Data,5,0,5,1,0,Department of Health and Human Services
+761,787,8,56,1,3,Male,Employed,Bachelor,Broadband,4,0,8,10,0,Department of Education
+810,812,6,79,1,3,Female,Student,Graduate,Mobile Data,3,0,5,6,0,Department of Education
+821,985,4,70,1,5,Female,Employed,High School,Broadband,2,0,8,3,0,Department of Health and Human Services
+830,1175,4,24,1,2,Female,Employed,Graduate,Broadband,3,0,10,10,0,Department of Public Safety
+855,1626,3,33,1,3,Female,Student,Graduate,Broadband,3,0,1,4,0,Department of Public Safety
+862,865,1,20,1,1,Male,Employed,High School,Broadband,7,0,1,4,0,Department of Public Safety
+864,1439,6,27,1,4,Female,Employed,Some College,Broadband,5,0,1,1,0,Department of Education
+886,1574,6,24,1,2,Non-binary,Employed,Some College,Broadband,6,0,7,5,0,Department of Education
+888,1032,2,24,1,2,Female,Student,Some College,Mobile Data,6,0,9,10,0,Department of Education
+924,750,7,62,1,3,Female,Unemployed,High School,Broadband,6,0,1,4,0,Department of Education
+954,1273,9,25,1,5,Male,Student,Bachelor,Broadband,4,0,6,9,0,Department of Education
+969,1128,3,47,1,4,Male,Unemployed,Some College,Broadband,2,0,10,8,0,Department of Public Safety
+977,764,3,42,1,4,Female,Employed,Some College,Broadband,4,0,6,2,0,Department of Education
+998,1452,5,69,1,4,Female,Retired,High School,Mobile Data,5,0,7,10,0,Department of Public Safety
+30,1352,1,40,1,1,Female,Employed,High School,Mobile Data,9,1,1,1,0,Department of Housing
+69,1488,8,20,1,2,Male,Unemployed,Bachelor,Broadband,4,1,10,10,0,Department of Public Safety
+217,1088,8,69,1,3,Female,Employed,Some College,Broadband,4,1,7,10,0,Department of Public Safety
+244,1640,1,25,1,2,Female,Employed,High School,Broadband,2,1,7,10,0,Department of Public Safety
+285,1840,6,73,1,5,Male,Retired,High School,Mobile Data,1,1,4,8,0,Department of Housing
+402,1320,3,35,1,3,Male,Employed,Bachelor,No Internet,3,1,5,2,0,Department of Housing
+452,1247,7,54,1,5,Female,Employed,Some College,Broadband,3,1,6,2,0,Department of Education
+510,1251,1,53,1,1,Female,Employed,Bachelor,Broadband,4,1,3,1,0,Department of Health and Human Services
+547,1553,5,70,1,2,Male,Student,High School,Broadband,6,1,5,10,0,Department of Public Safety
+598,846,3,61,1,2,Female,Retired,Some College,Broadband,5,1,1,1,0,Department of Education
+795,816,8,68,1,2,Male,Student,High School,Broadband,3,1,10,10,0,Department of Education
+836,1390,2,69,1,4,Female,Unemployed,Graduate,Broadband,4,1,5,5,0,Department of Health and Human Services
+889,1437,8,20,1,5,Male,Unemployed,High School,Broadband,2,1,2,2,0,Department of Health and Human Services
+932,2004,7,33,1,2,Male,Employed,Bachelor,Broadband,2,1,9,10,0,Department of Health and Human Services
+984,1186,9,79,1,5,Male,Employed,High School,Broadband,1,1,9,10,0,Department of Public Safety
+3,1334,4,32,0,1,Male,Employed,High School,Broadband,6,0,5,4,1,Department of Public Safety
+6,950,9,45,0,4,Male,Employed,Bachelor,Broadband,2,0,2,1,1,Department of Health and Human Services
+7,1434,7,31,0,4,Female,Employed,High School,Broadband,1,0,7,10,1,Department of Public Safety
+10,1183,8,58,0,3,Male,Employed,High School,Broadband,2,0,5,5,1,Department of Public Safety
+17,536,2,42,0,2,Male,Employed,Graduate,Broadband,4,0,1,1,1,Department of Education
+20,356,9,20,0,3,Non-binary,Retired,Some College,Broadband,2,0,4,2,1,Department of Education
+23,1160,2,50,0,3,Male,Retired,Some College,Mobile Data,3,0,5,2,1,Department of Public Safety
+26,1173,1,52,0,3,Male,Retired,High School,Mobile Data,1,0,6,10,1,Department of Public Safety
+27,315,8,23,0,5,Female,Employed,Bachelor,Broadband,1,0,3,1,1,Department of Education
+29,780,9,69,0,4,Male,Employed,Some College,Broadband,1,0,8,9,1,Department of Public Safety
+33,1076,5,67,0,2,Female,Employed,Some College,Mobile Data,5,0,10,7,1,Department of Housing
+35,1267,9,36,0,4,Male,Retired,Graduate,Broadband,3,0,3,4,1,Department of Health and Human Services
+37,843,7,68,0,5,Non-binary,Employed,Bachelor,Mobile Data,1,0,9,7,1,Department of Education
+38,252,5,28,0,2,Female,Student,High School,Broadband,5,0,9,9,1,Department of Education
+40,1379,1,29,0,1,Female,Employed,High School,No Internet,5,0,10,8,1,Department of Housing
+42,1011,3,25,0,4,Female,Employed,Graduate,Mobile Data,2,0,9,10,1,Department of Housing
+43,985,5,41,0,5,Male,Employed,Bachelor,Mobile Data,0,0,2,1,1,Department of Public Safety
+46,804,4,58,0,1,Male,Employed,Bachelor,Broadband,2,0,1,6,1,Department of Housing
+47,1182,5,53,0,1,Female,Unemployed,High School,Mobile Data,5,0,8,7,1,Department of Health and Human Services
+48,977,5,54,0,5,Male,Employed,High School,Broadband,0,0,5,1,1,Department of Education
+50,551,1,25,0,2,Male,Unemployed,Some College,Broadband,5,0,2,6,1,Department of Public Safety
+52,784,5,26,0,3,Female,Employed,High School,Broadband,0,0,2,1,1,Department of Housing
+54,1564,4,32,0,3,Female,Retired,High School,No Internet,1,0,8,7,1,Department of Health and Human Services
+55,1149,1,65,0,2,Male,Retired,Bachelor,Broadband,1,0,6,3,1,Department of Education
+56,1479,2,63,0,3,Female,Employed,Graduate,No Internet,2,0,7,10,1,Department of Housing
+58,567,9,35,0,5,Female,Employed,Graduate,Broadband,0,0,4,3,1,Department of Education
+62,1024,6,23,0,5,Non-binary,Employed,Graduate,Mobile Data,0,0,6,6,1,Department of Health and Human Services
+66,1307,5,33,0,5,Male,Unemployed,Bachelor,Broadband,0,0,9,10,1,Department of Public Safety
+70,766,7,44,0,5,Male,Student,Some College,Broadband,0,0,3,3,1,Department of Health and Human Services
+73,769,4,57,0,5,Female,Employed,Bachelor,Broadband,0,0,5,9,1,Department of Housing
+75,294,3,50,0,3,Male,Employed,Bachelor,Broadband,3,0,10,9,1,Department of Health and Human Services
+77,1046,3,18,0,1,Female,Retired,Bachelor,Broadband,4,0,1,3,1,Department of Housing
+86,989,1,21,0,1,Female,Employed,High School,Mobile Data,5,0,10,8,1,Department of Housing
+87,1595,1,47,0,1,Male,Employed,High School,Mobile Data,2,0,4,1,1,Department of Health and Human Services
+90,1174,7,71,0,3,Male,Employed,Some College,Broadband,2,0,9,10,1,Department of Public Safety
+92,1191,3,49,0,1,Male,Employed,Graduate,Broadband,6,0,5,3,1,Department of Education
+95,1082,7,28,0,5,Female,Employed,Some College,No Internet,0,0,4,6,1,Department of Public Safety
+97,1109,1,72,0,1,Female,Employed,Bachelor,Broadband,5,0,7,6,1,Department of Housing
+98,1158,3,33,0,3,Male,Employed,Graduate,No Internet,3,0,6,6,1,Department of Education
+105,1032,1,30,0,3,Male,Employed,Some College,Broadband,3,0,1,1,1,Department of Health and Human Services
+110,998,9,75,0,5,Female,Employed,High School,Mobile Data,0,0,3,6,1,Department of Public Safety
+114,1819,7,44,0,5,Female,Unemployed,High School,Mobile Data,0,0,9,6,1,Department of Health and Human Services
+115,1142,1,22,0,3,Male,Employed,Some College,Mobile Data,1,0,2,2,1,Department of Health and Human Services
+117,1010,4,20,0,1,Male,Employed,Bachelor,Mobile Data,4,0,10,10,1,Department of Education
+119,1543,4,21,0,3,Male,Employed,Graduate,No Internet,4,0,9,10,1,Department of Housing
+121,1557,1,37,0,1,Female,Employed,Graduate,Mobile Data,6,0,5,6,1,Department of Health and Human Services
+122,807,8,51,0,5,Female,Retired,Bachelor,Mobile Data,1,0,1,1,1,Department of Health and Human Services
+123,1201,9,43,0,3,Male,Employed,Bachelor,Broadband,4,0,5,3,1,Department of Education
+125,1256,8,79,0,3,Male,Employed,Some College,Broadband,4,0,8,10,1,Department of Health and Human Services
+140,831,6,28,0,2,Male,Unemployed,Some College,Mobile Data,3,0,10,7,1,Department of Public Safety
+149,1417,8,39,0,2,Female,Retired,High School,Mobile Data,5,0,3,4,1,Department of Health and Human Services
+150,929,2,20,0,4,Female,Student,High School,Broadband,3,0,9,4,1,Department of Housing
+151,1155,6,29,0,3,Female,Employed,High School,Broadband,0,0,2,4,1,Department of Health and Human Services
+152,1124,2,45,0,3,Female,Employed,High School,Broadband,4,0,6,3,1,Department of Public Safety
+156,986,3,38,0,2,Female,Employed,Graduate,Mobile Data,1,0,10,10,1,Department of Public Safety
+161,428,5,50,0,4,Male,Unemployed,High School,Broadband,3,0,1,7,1,Department of Education
+164,474,9,69,0,4,Female,Employed,Bachelor,Broadband,2,0,10,10,1,Department of Education
+168,1589,8,64,0,3,Male,Employed,Some College,Broadband,3,0,1,4,1,Department of Public Safety
+169,1186,5,35,0,2,Female,Unemployed,High School,Mobile Data,5,0,7,3,1,Department of Health and Human Services
+171,753,1,28,0,1,Female,Employed,Graduate,Broadband,5,0,8,9,1,Department of Housing
+176,1148,3,34,0,3,Male,Employed,Some College,Mobile Data,4,0,6,7,1,Department of Education
+182,523,4,44,0,3,Male,Retired,Some College,Broadband,3,0,4,2,1,Department of Education
+183,639,2,52,0,4,Male,Employed,Bachelor,Broadband,0,0,7,7,1,Department of Public Safety
+185,833,9,37,0,5,Non-binary,Student,High School,Broadband,0,0,3,2,1,Department of Public Safety
+186,934,7,78,0,4,Male,Employed,Some College,Broadband,3,0,7,3,1,Department of Education
+188,1058,4,51,0,2,Female,Student,Bachelor,Broadband,5,0,8,9,1,Department of Public Safety
+193,1264,6,45,0,1,Female,Retired,High School,Broadband,5,0,9,9,1,Department of Health and Human Services
+194,766,6,64,0,1,Male,Unemployed,Bachelor,Broadband,4,0,4,1,1,Department of Public Safety
+196,1136,1,23,0,3,Female,Employed,Some College,Broadband,4,0,5,3,1,Department of Public Safety
+197,875,1,26,0,2,Female,Employed,Some College,Broadband,2,0,1,7,1,Department of Health and Human Services
+203,1225,9,40,0,5,Male,Unemployed,Bachelor,Mobile Data,1,0,4,9,1,Department of Housing
+206,679,2,75,0,4,Male,Employed,High School,Broadband,0,0,2,4,1,Department of Public Safety
+208,1234,3,64,0,2,Female,Unemployed,Bachelor,Mobile Data,2,0,3,1,1,Department of Housing
+210,1996,9,32,0,4,Female,Employed,Bachelor,Broadband,1,0,6,5,1,Department of Housing
+218,769,9,31,0,4,Male,Unemployed,Bachelor,Broadband,0,0,5,3,1,Department of Housing
+222,220,6,56,0,5,Male,Unemployed,High School,Broadband,0,0,2,7,1,Department of Housing
+227,859,1,32,0,2,Male,Retired,Bachelor,Broadband,1,0,10,10,1,Department of Education
+228,577,2,35,0,1,Male,Unemployed,Some College,Broadband,2,0,3,1,1,Department of Education
+230,1524,1,50,0,1,Male,Employed,Graduate,Mobile Data,4,0,9,7,1,Department of Health and Human Services
+231,921,8,23,0,3,Male,Employed,High School,Mobile Data,2,0,8,7,1,Department of Public Safety
+232,845,9,76,0,5,Male,Student,Some College,Mobile Data,1,0,8,7,1,Department of Education
+236,1210,8,44,0,5,Female,Employed,Bachelor,Mobile Data,0,0,1,1,1,Department of Public Safety
+237,472,7,51,0,5,Male,Employed,High School,No Internet,2,0,6,6,1,Department of Housing
+238,836,8,73,0,3,Female,Student,Bachelor,Broadband,2,0,9,4,1,Department of Education
+239,461,7,63,0,5,Female,Employed,Bachelor,Broadband,0,0,8,8,1,Department of Education
+255,504,4,41,0,5,Male,Employed,Bachelor,Broadband,0,0,4,4,1,Department of Health and Human Services
+257,1220,4,43,0,4,Male,Employed,Some College,Mobile Data,0,0,2,6,1,Department of Education
+260,1372,6,39,0,2,Non-binary,Employed,Bachelor,Broadband,1,0,4,1,1,Department of Health and Human Services
+266,946,1,20,0,1,Female,Employed,High School,Mobile Data,4,0,4,6,1,Department of Health and Human Services
+267,1150,4,59,0,5,Male,Student,Bachelor,Broadband,2,0,10,10,1,Department of Education
+273,1009,7,24,0,5,Male,Employed,Some College,Broadband,1,0,2,1,1,Department of Education
+275,486,6,26,0,3,Female,Retired,High School,Broadband,2,0,5,7,1,Department of Education
+276,919,7,76,0,5,Male,Employed,High School,Mobile Data,0,0,4,2,1,Department of Education
+277,1260,5,77,0,1,Female,Unemployed,Graduate,Broadband,3,0,4,2,1,Department of Health and Human Services
+279,981,1,74,0,2,Female,Employed,High School,Broadband,4,0,2,4,1,Department of Housing
+283,1436,5,69,0,5,Non-binary,Employed,High School,Broadband,1,0,7,5,1,Department of Health and Human Services
+289,1224,4,53,0,1,Male,Employed,High School,Mobile Data,15,0,6,6,1,Department of Housing
+292,572,3,47,0,4,Male,Student,Bachelor,Broadband,1,0,8,3,1,Department of Education
+293,603,4,26,0,5,Male,Student,Some College,Mobile Data,0,0,7,10,1,Department of Education
+294,1215,1,50,0,2,Male,Employed,Bachelor,Mobile Data,2,0,9,8,1,Department of Education
+296,1052,6,69,0,1,Male,Student,Some College,Mobile Data,4,0,9,10,1,Department of Public Safety
+297,1110,7,42,0,2,Male,Student,High School,Broadband,2,0,9,10,1,Department of Education
+298,1172,5,31,0,2,Male,Employed,High School,Broadband,3,0,6,8,1,Department of Public Safety
+299,1144,9,28,0,5,Female,Retired,High School,Broadband,2,0,2,3,1,Department of Public Safety
+302,852,7,58,0,3,Male,Retired,Bachelor,Broadband,4,0,7,10,1,Department of Public Safety
+303,1184,1,76,0,2,Female,Employed,High School,Broadband,1,0,9,10,1,Department of Housing
+305,954,9,47,0,4,Female,Employed,High School,Broadband,0,0,10,7,1,Department of Public Safety
+307,1403,1,21,0,1,Male,Employed,Some College,Broadband,6,0,6,2,1,Department of Housing
+310,1019,5,45,0,3,Female,Employed,High School,Broadband,1,0,9,7,1,Department of Health and Human Services
+312,1290,7,19,0,4,Female,Employed,High School,Broadband,3,0,5,5,1,Department of Public Safety
+319,877,4,72,0,3,Male,Employed,Bachelor,Broadband,1,0,7,9,1,Department of Education
+323,715,9,66,0,5,Female,Retired,High School,Broadband,1,0,7,4,1,Department of Health and Human Services
+326,716,8,29,0,2,Female,Employed,Some College,Mobile Data,2,0,2,2,1,Department of Housing
+327,1547,5,52,0,1,Female,Employed,High School,Broadband,6,0,8,8,1,Department of Health and Human Services
+328,1557,7,28,0,3,Female,Employed,High School,No Internet,1,0,9,10,1,Department of Public Safety
+330,1089,9,67,0,5,Male,Employed,High School,Broadband,0,0,3,8,1,Department of Public Safety
+332,391,9,38,0,5,Male,Employed,Bachelor,Broadband,0,0,10,8,1,Department of Education
+333,863,6,22,0,4,Male,Employed,High School,Broadband,3,0,1,1,1,Department of Housing
+334,937,3,65,0,3,Male,Employed,Graduate,Mobile Data,3,0,6,3,1,Department of Public Safety
+337,652,5,20,0,5,Male,Employed,Bachelor,Broadband,0,0,9,6,1,Department of Public Safety
+343,1093,2,78,0,3,Male,Employed,Some College,Broadband,1,0,5,5,1,Department of Public Safety
+344,1048,1,26,0,1,Female,Unemployed,Bachelor,Broadband,5,0,1,1,1,Department of Health and Human Services
+345,939,9,21,0,5,Male,Employed,Graduate,Mobile Data,0,0,8,9,1,Department of Health and Human Services
+346,1030,1,52,0,2,Male,Employed,Bachelor,Broadband,3,0,10,10,1,Department of Housing
+349,864,3,41,0,2,Female,Employed,Some College,Mobile Data,4,0,10,10,1,Department of Housing
+350,836,3,49,0,5,Female,Retired,High School,Broadband,0,0,10,10,1,Department of Public Safety
+353,1637,1,62,0,2,Male,Employed,High School,No Internet,5,0,3,1,1,Department of Public Safety
+359,1237,4,29,0,4,Male,Student,High School,Mobile Data,0,0,10,7,1,Department of Health and Human Services
+361,1356,7,64,0,3,Female,Employed,Some College,No Internet,3,0,6,10,1,Department of Housing
+365,867,4,43,0,5,Female,Employed,High School,Broadband,0,0,4,4,1,Department of Education
+367,1027,8,46,0,4,Male,Employed,Some College,Broadband,2,0,6,9,1,Department of Public Safety
+368,784,7,39,0,5,Female,Employed,Bachelor,Mobile Data,0,0,9,8,1,Department of Education
+369,1169,1,57,0,2,Male,Employed,High School,Broadband,1,0,9,10,1,Department of Health and Human Services
+370,848,1,38,0,2,Male,Retired,Bachelor,Mobile Data,4,0,7,10,1,Department of Housing
+373,1215,9,37,0,5,Non-binary,Employed,High School,Broadband,1,0,5,2,1,Department of Housing
+375,1366,2,46,0,4,Male,Retired,Some College,Broadband,0,0,7,3,1,Department of Education
+380,778,9,45,0,3,Male,Employed,High School,Broadband,3,0,10,6,1,Department of Public Safety
+381,888,2,45,0,1,Male,Employed,Some College,Broadband,4,0,1,1,1,Department of Public Safety
+382,540,9,21,0,4,Male,Student,Bachelor,Broadband,0,0,9,5,1,Department of Education
+384,862,1,29,0,1,Female,Employed,Graduate,Broadband,2,0,1,6,1,Department of Housing
+385,972,4,62,0,1,Female,Retired,Some College,Broadband,3,0,1,6,1,Department of Health and Human Services
+386,1065,4,20,0,3,Female,Employed,Some College,Broadband,0,0,5,2,1,Department of Public Safety
+389,1485,1,19,0,1,Female,Employed,High School,Broadband,6,0,6,8,1,Department of Health and Human Services
+390,787,9,41,0,4,Non-binary,Employed,Bachelor,Mobile Data,3,0,10,7,1,Department of Housing
+391,510,7,51,0,3,Male,Retired,High School,Broadband,2,0,8,3,1,Department of Education
+394,1389,7,58,0,2,Female,Employed,High School,Broadband,2,0,4,1,1,Department of Education
+395,1374,6,18,0,3,Female,Employed,High School,Broadband,3,0,5,4,1,Department of Public Safety
+397,326,2,40,0,4,Male,Employed,Some College,Mobile Data,0,0,3,1,1,Department of Education
+398,1426,3,55,0,4,Male,Employed,Bachelor,Broadband,0,0,3,1,1,Department of Health and Human Services
+403,1022,4,34,0,1,Male,Employed,Graduate,Broadband,2,0,6,10,1,Department of Housing
+407,340,9,43,0,5,Male,Student,High School,Broadband,2,0,6,5,1,Department of Education
+411,1053,3,77,0,4,Female,Employed,Some College,Broadband,3,0,3,7,1,Department of Housing
+412,743,5,59,0,2,Female,Unemployed,High School,Broadband,2,0,2,3,1,Department of Public Safety
+421,1638,5,52,0,3,Male,Employed,High School,Mobile Data,3,0,1,4,1,Department of Housing
+422,1367,9,65,0,4,Female,Retired,High School,Mobile Data,0,0,10,10,1,Department of Education
+428,1286,9,78,0,5,Male,Unemployed,Some College,Mobile Data,1,0,3,2,1,Department of Health and Human Services
+430,372,3,66,0,5,Male,Employed,Graduate,Broadband,1,0,4,2,1,Department of Public Safety
+431,845,4,63,0,1,Male,Employed,Some College,Broadband,3,0,3,1,1,Department of Health and Human Services
+435,1411,1,60,0,2,Female,Employed,High School,Broadband,5,0,7,7,1,Department of Housing
+440,1063,7,56,0,3,Female,Unemployed,Some College,Broadband,2,0,8,8,1,Department of Health and Human Services
+442,770,1,70,0,3,Male,Employed,Bachelor,Broadband,0,0,10,10,1,Department of Education
+448,798,1,79,0,3,Male,Employed,Some College,Broadband,0,0,9,7,1,Department of Health and Human Services
+450,522,8,26,0,4,Female,Unemployed,Bachelor,Broadband,0,0,2,1,1,Department of Housing
+453,724,7,66,0,4,Male,Unemployed,Bachelor,Broadband,0,0,2,8,1,Department of Health and Human Services
+454,991,2,58,0,2,Female,Student,Graduate,Broadband,4,0,8,4,1,Department of Education
+457,748,1,38,0,3,Female,Employed,High School,Broadband,2,0,8,10,1,Department of Education
+458,769,6,68,0,3,Female,Employed,Graduate,Broadband,3,0,8,7,1,Department of Health and Human Services
+461,1549,9,72,0,5,Female,Employed,High School,Broadband,1,0,1,1,1,Department of Health and Human Services
+462,911,4,58,0,3,Female,Retired,Bachelor,Broadband,0,0,7,10,1,Department of Housing
+464,1264,7,30,0,5,Female,Student,Some College,No Internet,0,0,9,5,1,Department of Public Safety
+465,1106,5,28,0,1,Female,Employed,High School,Broadband,4,0,2,1,1,Department of Public Safety
+467,964,5,36,0,5,Male,Employed,Some College,Mobile Data,0,0,4,9,1,Department of Education
+469,981,5,30,0,2,Non-binary,Employed,Some College,Broadband,5,0,10,10,1,Department of Health and Human Services
+471,1057,5,62,0,4,Female,Employed,High School,Mobile Data,0,0,5,7,1,Department of Health and Human Services
+472,89,4,18,0,5,Female,Unemployed,Some College,Broadband,0,0,6,10,1,Department of Housing
+475,1453,1,36,0,2,Female,Employed,Bachelor,Broadband,4,0,6,5,1,Department of Housing
+478,1053,6,25,0,4,Male,Student,High School,Broadband,3,0,5,7,1,Department of Public Safety
+481,622,3,62,0,5,Female,Employed,High School,Broadband,0,0,9,5,1,Department of Education
+482,733,9,29,0,3,Male,Employed,Graduate,Mobile Data,3,0,9,10,1,Department of Housing
+483,238,7,78,0,4,Male,Employed,High School,Broadband,2,0,6,7,1,Department of Education
+491,958,5,22,0,4,Male,Employed,Some College,Broadband,1,0,10,10,1,Department of Public Safety
+493,1343,4,42,0,4,Male,Retired,High School,No Internet,1,0,9,10,1,Department of Health and Human Services
+494,642,1,44,0,1,Female,Employed,Bachelor,Broadband,3,0,1,7,1,Department of Education
+496,1002,1,40,0,2,Female,Student,Some College,Broadband,1,0,2,4,1,Department of Education
+497,829,1,47,0,2,Male,Unemployed,Bachelor,Broadband,2,0,6,9,1,Department of Health and Human Services
+503,480,4,37,0,5,Female,Employed,High School,Broadband,0,0,4,8,1,Department of Public Safety
+504,1189,8,35,0,3,Female,Employed,Bachelor,Mobile Data,1,0,9,6,1,Department of Housing
+505,585,8,35,0,5,Male,Employed,Some College,Broadband,2,0,8,10,1,Department of Housing
+514,628,2,64,0,1,Female,Employed,Some College,Broadband,3,0,8,9,1,Department of Education
+522,1183,8,68,0,3,Female,Employed,Bachelor,Broadband,3,0,6,8,1,Department of Public Safety
+523,701,6,32,0,5,Male,Student,Some College,Broadband,2,0,2,1,1,Department of Public Safety
+525,611,3,56,0,4,Male,Employed,Bachelor,Broadband,1,0,5,9,1,Department of Housing
+527,352,3,46,0,4,Female,Employed,Bachelor,Mobile Data,0,0,2,4,1,Department of Education
+528,854,5,58,0,2,Male,Employed,Some College,Broadband,3,0,4,1,1,Department of Education
+535,1004,7,31,0,2,Male,Unemployed,Bachelor,Mobile Data,3,0,2,1,1,Department of Public Safety
+538,545,9,71,0,5,Female,Student,Some College,Broadband,2,0,9,4,1,Department of Education
+542,921,5,45,0,2,Female,Employed,Graduate,No Internet,1,0,6,8,1,Department of Housing
+543,1479,1,20,0,3,Male,Employed,High School,No Internet,3,0,9,10,1,Department of Public Safety
+545,99,7,23,0,2,Male,Retired,Graduate,Broadband,2,0,9,6,1,Department of Education
+546,841,1,44,0,2,Female,Employed,Bachelor,Broadband,4,0,2,1,1,Department of Public Safety
+552,1213,4,33,0,1,Male,Unemployed,Bachelor,Mobile Data,20,0,7,6,1,Department of Public Safety
+553,1250,1,47,0,3,Female,Retired,Some College,Mobile Data,2,0,5,8,1,Department of Education
+558,890,5,79,0,4,Female,Employed,Graduate,Broadband,0,0,10,8,1,Department of Health and Human Services
+562,1643,6,18,0,4,Male,Unemployed,Bachelor,Broadband,0,0,10,10,1,Department of Health and Human Services
+563,1461,1,72,0,1,Female,Unemployed,Graduate,Broadband,2,0,1,1,1,Department of Health and Human Services
+566,718,4,43,0,2,Female,Retired,High School,Broadband,3,0,9,10,1,Department of Education
+569,459,7,79,0,4,Female,Student,Bachelor,Broadband,1,0,8,10,1,Department of Health and Human Services
+573,878,4,40,0,3,Female,Employed,Some College,Broadband,2,0,7,10,1,Department of Education
+574,1014,4,41,0,2,Male,Employed,Some College,Broadband,5,0,7,6,1,Department of Public Safety
+575,1329,5,74,0,3,Male,Student,High School,Broadband,2,0,9,10,1,Department of Health and Human Services
+576,357,4,55,0,3,Male,Employed,Bachelor,Mobile Data,3,0,8,3,1,Department of Housing
+578,1131,6,38,0,3,Male,Student,Bachelor,Mobile Data,4,0,4,5,1,Department of Education
+582,775,4,53,0,3,Female,Unemployed,Graduate,Broadband,3,0,3,6,1,Department of Housing
+589,1269,3,75,0,4,Female,Unemployed,Bachelor,Broadband,1,0,9,10,1,Department of Health and Human Services
+596,627,6,20,0,5,Male,Retired,High School,Mobile Data,0,0,2,7,1,Department of Education
+599,1067,7,32,0,5,Female,Employed,Some College,No Internet,0,0,2,1,1,Department of Public Safety
+602,743,5,57,0,4,Male,Unemployed,Some College,Broadband,2,0,10,5,1,Department of Health and Human Services
+603,1461,1,28,0,2,Male,Retired,Bachelor,Mobile Data,4,0,2,1,1,Department of Public Safety
+604,1187,7,65,0,3,Female,Employed,High School,Broadband,1,0,2,2,1,Department of Education
+605,1144,2,49,0,3,Male,Employed,Bachelor,Broadband,2,0,7,6,1,Department of Public Safety
+606,1463,5,75,0,1,Female,Employed,High School,Broadband,5,0,5,6,1,Department of Education
+607,728,2,76,0,2,Female,Employed,High School,Broadband,4,0,5,6,1,Department of Housing
+610,1409,3,53,0,2,Male,Employed,Bachelor,Broadband,1,0,9,4,1,Department of Housing
+611,1036,9,77,0,4,Male,Unemployed,High School,Broadband,3,0,4,9,1,Department of Housing
+613,1044,9,41,0,4,Female,Employed,Graduate,Mobile Data,0,0,4,6,1,Department of Housing
+629,1277,4,27,0,2,Male,Unemployed,Bachelor,Mobile Data,1,0,6,10,1,Department of Health and Human Services
+631,332,2,35,0,4,Female,Employed,Graduate,Mobile Data,3,0,2,5,1,Department of Education
+632,1479,3,45,0,5,Female,Employed,Graduate,Mobile Data,1,0,9,5,1,Department of Public Safety
+634,952,9,60,0,4,Female,Retired,High School,Mobile Data,3,0,8,3,1,Department of Public Safety
+636,404,7,48,0,5,Male,Employed,High School,Broadband,1,0,4,9,1,Department of Public Safety
+637,1387,1,44,0,2,Female,Employed,Some College,Broadband,1,0,4,7,1,Department of Health and Human Services
+639,873,3,28,0,2,Male,Employed,High School,Mobile Data,5,0,10,10,1,Department of Health and Human Services
+640,691,6,66,0,2,Female,Employed,Graduate,Broadband,1,0,1,1,1,Department of Public Safety
+643,762,8,22,0,4,Male,Employed,Bachelor,Broadband,0,0,10,8,1,Department of Housing
+644,509,3,25,0,5,Male,Employed,Bachelor,Broadband,0,0,10,10,1,Department of Health and Human Services
+645,886,4,51,0,4,Male,Employed,High School,Mobile Data,0,0,8,10,1,Department of Housing
+646,578,9,65,0,5,Female,Employed,Some College,Broadband,1,0,2,1,1,Department of Education
+654,568,9,66,0,3,Female,Employed,Some College,Broadband,4,0,2,6,1,Department of Housing
+658,773,9,47,0,5,Male,Student,High School,Broadband,1,0,9,10,1,Department of Housing
+659,779,4,73,0,4,Male,Unemployed,Some College,Broadband,2,0,3,2,1,Department of Education
+661,848,9,76,0,3,Female,Student,Some College,Broadband,2,0,4,9,1,Department of Public Safety
+662,556,6,20,0,4,Female,Unemployed,Some College,Broadband,3,0,3,8,1,Department of Education
+664,917,8,62,0,5,Female,Employed,High School,Mobile Data,2,0,5,4,1,Department of Health and Human Services
+669,0,9,71,0,4,Male,Employed,Graduate,Broadband,0,0,8,6,1,Department of Education
+672,38,9,59,0,5,Male,Unemployed,High School,Broadband,2,0,6,2,1,Department of Education
+676,967,1,76,0,3,Female,Employed,High School,No Internet,1,0,9,10,1,Department of Housing
+682,681,9,54,0,3,Female,Employed,Some College,Broadband,0,0,1,1,1,Department of Public Safety
+684,1047,1,78,0,3,Non-binary,Employed,High School,Mobile Data,1,0,10,8,1,Department of Education
+688,788,4,54,0,1,Male,Employed,Bachelor,Broadband,6,0,5,9,1,Department of Education
+689,1173,4,52,0,5,Male,Unemployed,Some College,Broadband,0,0,1,1,1,Department of Health and Human Services
+690,1033,2,40,0,1,Female,Student,High School,Broadband,6,0,8,10,1,Department of Education
+692,1128,4,21,0,5,Female,Employed,Some College,Mobile Data,0,0,5,6,1,Department of Education
+695,1078,7,26,0,3,Male,Unemployed,High School,Broadband,4,0,1,1,1,Department of Housing
+700,1325,5,64,0,3,Male,Employed,High School,No Internet,0,0,5,7,1,Department of Health and Human Services
+701,863,9,79,0,3,Female,Employed,Some College,Mobile Data,3,0,9,4,1,Department of Housing
+703,869,1,34,0,2,Male,Employed,Bachelor,Broadband,4,0,10,7,1,Department of Public Safety
+704,477,5,62,0,3,Male,Employed,Some College,Broadband,4,0,2,5,1,Department of Housing
+705,493,5,49,0,4,Non-binary,Employed,Graduate,Broadband,2,0,9,6,1,Department of Public Safety
+707,756,1,39,0,1,Female,Unemployed,High School,Broadband,4,0,5,10,1,Department of Public Safety
+710,1649,4,54,0,1,Female,Employed,High School,Broadband,3,0,6,5,1,Department of Public Safety
+712,1051,1,66,0,2,Female,Employed,Some College,Mobile Data,4,0,10,7,1,Department of Housing
+718,1065,1,76,0,3,Male,Employed,Some College,Broadband,0,0,10,7,1,Department of Public Safety
+719,1211,4,40,0,4,Male,Employed,Bachelor,No Internet,1,0,10,6,1,Department of Health and Human Services
+723,436,8,51,0,4,Male,Unemployed,High School,Broadband,3,0,10,10,1,Department of Housing
+728,1004,2,66,0,1,Female,Retired,Some College,Broadband,6,0,1,2,1,Department of Education
+730,907,1,63,0,3,Female,Employed,Bachelor,Mobile Data,0,0,10,8,1,Department of Public Safety
+731,1079,4,61,0,3,Female,Unemployed,High School,Broadband,4,0,1,1,1,Department of Public Safety
+733,1082,4,61,0,5,Female,Unemployed,High School,Broadband,0,0,6,2,1,Department of Health and Human Services
+735,969,9,56,0,5,Male,Retired,Bachelor,Broadband,0,0,5,7,1,Department of Education
+736,1162,9,21,0,5,Female,Employed,Bachelor,Mobile Data,1,0,1,2,1,Department of Public Safety
+737,1097,7,68,0,4,Male,Employed,Bachelor,Broadband,3,0,6,9,1,Department of Health and Human Services
+739,1520,2,45,0,4,Female,Unemployed,Some College,Broadband,0,0,5,2,1,Department of Health and Human Services
+741,468,5,78,0,5,Male,Retired,Bachelor,Mobile Data,0,0,10,10,1,Department of Public Safety
+742,516,8,52,0,5,Female,Employed,Bachelor,Broadband,0,0,7,7,1,Department of Public Safety
+745,875,8,51,0,4,Male,Student,High School,Broadband,0,0,3,1,1,Department of Education
+747,1136,3,53,0,2,Female,Unemployed,Bachelor,Broadband,5,0,3,1,1,Department of Public Safety
+748,673,7,68,0,3,Male,Employed,High School,Broadband,0,0,2,4,1,Department of Housing
+749,1017,8,78,0,2,Female,Unemployed,High School,Mobile Data,1,0,4,9,1,Department of Public Safety
+751,623,9,52,0,5,Male,Unemployed,Some College,Mobile Data,0,0,10,10,1,Department of Housing
+756,1570,3,74,0,3,Female,Employed,Bachelor,Broadband,2,0,5,6,1,Department of Education
+757,1168,9,41,0,4,Female,Student,High School,Broadband,0,0,6,3,1,Department of Health and Human Services
+763,1848,3,25,0,2,Male,Employed,High School,Mobile Data,4,0,10,10,1,Department of Housing
+768,1671,2,53,0,2,Female,Employed,Some College,Broadband,3,0,4,1,1,Department of Health and Human Services
+772,1211,7,70,0,3,Male,Employed,Graduate,No Internet,4,0,10,10,1,Department of Health and Human Services
+773,910,9,51,0,4,Male,Retired,Bachelor,Broadband,0,0,6,10,1,Department of Education
+774,1312,5,28,0,3,Female,Employed,Some College,Broadband,3,0,9,10,1,Department of Public Safety
+779,938,7,71,0,2,Non-binary,Employed,Some College,Broadband,5,0,5,6,1,Department of Housing
+785,948,5,22,0,5,Male,Employed,High School,Broadband,2,0,2,6,1,Department of Housing
+787,1150,9,73,0,5,Male,Employed,High School,Broadband,0,0,7,10,1,Department of Public Safety
+791,969,9,75,0,4,Male,Unemployed,Graduate,Broadband,0,0,8,10,1,Department of Housing
+793,1161,5,23,0,3,Male,Student,High School,Broadband,0,0,8,10,1,Department of Health and Human Services
+794,817,1,34,0,1,Male,Employed,Some College,Broadband,4,0,1,1,1,Department of Health and Human Services
+800,1089,6,61,0,2,Male,Employed,Graduate,Broadband,2,0,4,4,1,Department of Public Safety
+801,1241,8,69,0,4,Male,Retired,High School,Mobile Data,0,0,7,4,1,Department of Housing
+802,625,4,49,0,3,Male,Student,Some College,Broadband,2,0,7,3,1,Department of Education
+803,1349,6,23,0,1,Female,Employed,Some College,Mobile Data,3,0,2,8,1,Department of Health and Human Services
+804,821,4,72,0,2,Female,Employed,Bachelor,Broadband,1,0,2,3,1,Department of Housing
+805,1130,1,75,0,1,Female,Retired,Some College,Mobile Data,6,0,2,7,1,Department of Public Safety
+806,927,9,53,0,5,Female,Unemployed,Graduate,Mobile Data,0,0,2,3,1,Department of Public Safety
+807,1267,1,55,0,3,Female,Retired,Graduate,No Internet,2,0,9,10,1,Department of Housing
+808,1176,1,28,0,1,Female,Unemployed,Graduate,Mobile Data,6,0,5,9,1,Department of Health and Human Services
+817,1400,1,68,0,1,Male,Employed,Graduate,Mobile Data,4,0,2,1,1,Department of Health and Human Services
+824,1031,1,35,0,1,Female,Employed,Some College,Mobile Data,2,0,9,9,1,Department of Housing
+825,946,1,45,0,2,Male,Employed,Some College,Broadband,1,0,2,5,1,Department of Public Safety
+826,1336,1,68,0,1,Male,Employed,Some College,Broadband,6,0,3,1,1,Department of Education
+834,850,2,26,0,2,Female,Employed,High School,Broadband,1,0,2,7,1,Department of Public Safety
+840,596,6,66,0,5,Male,Employed,Bachelor,Broadband,1,0,3,7,1,Department of Education
+841,705,2,50,0,4,Male,Employed,Bachelor,Broadband,0,0,6,10,1,Department of Education
+842,1342,7,49,0,2,Female,Employed,High School,Broadband,5,0,4,6,1,Department of Health and Human Services
+843,683,7,25,0,4,Female,Employed,Some College,Broadband,0,0,3,8,1,Department of Health and Human Services
+845,770,2,55,0,4,Female,Employed,High School,Broadband,0,0,3,3,1,Department of Education
+846,1288,5,20,0,3,Male,Employed,Some College,Mobile Data,3,0,4,4,1,Department of Public Safety
+848,1697,5,22,0,4,Female,Employed,Bachelor,Mobile Data,0,0,4,9,1,Department of Housing
+849,1009,2,30,0,1,Female,Employed,Graduate,Broadband,4,0,8,6,1,Department of Health and Human Services
+850,981,5,64,0,2,Female,Employed,Bachelor,Broadband,4,0,3,7,1,Department of Health and Human Services
+852,613,9,78,0,5,Male,Employed,High School,Broadband,1,0,3,5,1,Department of Housing
+860,1090,5,39,0,3,Female,Employed,Some College,Broadband,0,0,6,7,1,Department of Housing
+863,1604,1,71,0,2,Female,Retired,High School,Broadband,2,0,9,5,1,Department of Health and Human Services
+867,1226,2,38,0,3,Male,Unemployed,High School,Mobile Data,0,0,3,5,1,Department of Public Safety
+871,607,7,58,0,5,Male,Student,High School,Broadband,0,0,8,6,1,Department of Education
+872,661,1,41,0,1,Male,Retired,Bachelor,Broadband,5,0,9,6,1,Department of Education
+877,925,2,47,0,2,Male,Retired,High School,Broadband,1,0,4,8,1,Department of Public Safety
+879,1075,9,52,0,4,Male,Employed,Graduate,Mobile Data,1,0,4,1,1,Department of Public Safety
+885,1465,1,57,0,1,Male,Employed,Some College,Mobile Data,2,0,5,10,1,Department of Public Safety
+890,1053,9,18,0,4,Male,Student,Bachelor,Broadband,0,0,3,1,1,Department of Education
+892,1052,9,42,0,5,Male,Employed,Graduate,Mobile Data,0,0,10,9,1,Department of Housing
+894,1011,9,18,0,5,Female,Unemployed,Some College,Broadband,0,0,2,8,1,Department of Education
+895,1555,5,32,0,1,Male,Employed,Graduate,Broadband,3,0,2,1,1,Department of Public Safety
+897,850,1,30,0,1,Female,Unemployed,Bachelor,Broadband,4,0,4,1,1,Department of Education
+898,1004,6,57,0,2,Male,Employed,High School,Broadband,2,0,1,4,1,Department of Housing
+901,1011,6,77,0,3,Female,Employed,High School,Broadband,1,0,7,7,1,Department of Housing
+903,1089,7,18,0,5,Male,Employed,Bachelor,No Internet,2,0,1,1,1,Department of Housing
+905,1077,9,52,0,5,Female,Unemployed,Some College,Mobile Data,0,0,3,1,1,Department of Public Safety
+911,928,6,63,0,5,Male,Employed,Bachelor,Mobile Data,0,0,8,5,1,Department of Public Safety
+918,956,6,52,0,5,Female,Employed,Bachelor,Broadband,1,0,4,7,1,Department of Public Safety
+919,826,1,25,0,2,Female,Employed,Some College,Broadband,1,0,10,5,1,Department of Housing
+920,1198,1,20,0,1,Female,Employed,High School,Mobile Data,5,0,5,5,1,Department of Housing
+921,1162,8,31,0,4,Female,Employed,Bachelor,Broadband,3,0,9,9,1,Department of Housing
+922,712,5,77,0,3,Male,Unemployed,Bachelor,Broadband,3,0,7,4,1,Department of Public Safety
+923,1240,1,30,0,2,Male,Employed,Bachelor,Mobile Data,3,0,2,5,1,Department of Public Safety
+927,912,5,62,0,2,Male,Student,Some College,Broadband,1,0,2,2,1,Department of Public Safety
+928,1133,6,78,0,4,Male,Employed,High School,Broadband,0,0,3,3,1,Department of Health and Human Services
+930,940,8,76,0,2,Male,Employed,High School,Broadband,5,0,9,4,1,Department of Housing
+931,793,9,55,0,5,Female,Employed,Graduate,Broadband,0,0,4,6,1,Department of Health and Human Services
+938,1233,2,59,0,3,Female,Unemployed,Bachelor,Broadband,4,0,2,7,1,Department of Public Safety
+939,1093,8,77,0,4,Female,Unemployed,Some College,Broadband,0,0,4,3,1,Department of Health and Human Services
+940,791,9,33,0,4,Female,Retired,Some College,Broadband,0,0,2,5,1,Department of Public Safety
+942,1162,4,77,0,1,Female,Retired,High School,Broadband,4,0,3,1,1,Department of Education
+943,1515,1,19,0,1,Male,Employed,Bachelor,Mobile Data,2,0,5,8,1,Department of Health and Human Services
+944,930,1,19,0,2,Female,Unemployed,Bachelor,Mobile Data,5,0,4,6,1,Department of Education
+948,992,7,64,0,2,Female,Employed,High School,Mobile Data,4,0,6,3,1,Department of Public Safety
+955,875,8,40,0,3,Male,Employed,Bachelor,Broadband,1,0,3,8,1,Department of Housing
+956,1655,4,31,0,3,Female,Employed,High School,No Internet,2,0,1,2,1,Department of Public Safety
+957,1243,5,73,0,3,Male,Retired,High School,Mobile Data,4,0,8,6,1,Department of Public Safety
+958,1217,5,79,0,2,Male,Student,Bachelor,Broadband,3,0,4,4,1,Department of Public Safety
+962,1419,3,46,0,4,Female,Retired,High School,Broadband,0,0,4,8,1,Department of Health and Human Services
+971,998,8,30,0,5,Male,Employed,High School,Broadband,0,0,8,3,1,Department of Health and Human Services
+972,576,1,38,0,3,Female,Unemployed,High School,Broadband,0,0,4,1,1,Department of Education
+975,946,4,36,0,3,Female,Employed,Bachelor,Broadband,3,0,9,10,1,Department of Health and Human Services
+976,633,1,74,0,1,Male,Employed,Bachelor,Broadband,3,0,5,3,1,Department of Health and Human Services
+978,53,8,39,0,5,Male,Unemployed,Bachelor,Broadband,0,0,5,10,1,Department of Housing
+979,425,9,48,0,5,Male,Unemployed,Bachelor,Broadband,0,0,3,1,1,Department of Public Safety
+981,1076,8,72,0,2,Male,Unemployed,Bachelor,Broadband,4,0,9,7,1,Department of Education
+986,972,2,27,0,1,Female,Employed,Bachelor,No Internet,4,0,8,10,1,Department of Housing
+987,1651,6,53,0,2,Female,Unemployed,High School,Mobile Data,1,0,3,2,1,Department of Public Safety
+988,1343,3,25,0,3,Male,Unemployed,High School,No Internet,4,0,5,6,1,Department of Education
+989,1254,6,71,0,1,Male,Unemployed,Some College,Mobile Data,3,0,3,1,1,Department of Health and Human Services
+991,903,1,37,0,2,Female,Employed,Bachelor,Broadband,3,0,6,5,1,Department of Education
+992,107,2,49,0,4,Male,Employed,Bachelor,Broadband,1,0,3,1,1,Department of Education
+994,695,1,31,0,1,Male,Employed,High School,Broadband,6,0,1,3,1,Department of Education
+995,840,5,67,0,4,Female,Student,Bachelor,Mobile Data,0,0,10,10,1,Department of Health and Human Services
+996,756,8,45,0,2,Female,Employed,Some College,Broadband,1,0,3,5,1,Department of Education
+1000,952,7,41,0,3,Female,Student,Some College,Broadband,2,0,3,1,1,Department of Education
+14,566,3,43,0,4,Female,Employed,Bachelor,Broadband,1,1,5,7,1,Department of Health and Human Services
+16,611,9,19,0,5,Non-binary,Unemployed,High School,Broadband,0,1,9,10,1,Department of Education
+19,868,2,79,0,1,Female,Employed,Some College,Broadband,1,1,1,1,1,Department of Housing
+21,1640,4,25,0,2,Male,Employed,High School,Broadband,4,1,4,4,1,Department of Public Safety
+41,1182,7,27,0,4,Female,Employed,High School,Mobile Data,0,1,5,8,1,Department of Education
+45,636,6,45,0,4,Female,Retired,High School,Mobile Data,2,1,5,9,1,Department of Housing
+51,1357,1,72,0,2,Male,Employed,Bachelor,Broadband,3,1,9,4,1,Department of Health and Human Services
+68,1081,6,62,0,5,Male,Employed,Some College,Broadband,1,1,10,10,1,Department of Education
+71,1128,1,67,0,3,Female,Retired,Bachelor,Broadband,0,1,5,2,1,Department of Housing
+72,1481,6,60,0,5,Female,Employed,Bachelor,Mobile Data,0,1,10,6,1,Department of Housing
+74,1489,1,55,0,1,Female,Retired,Some College,Broadband,4,1,9,8,1,Department of Education
+81,954,9,49,0,5,Male,Retired,High School,Broadband,0,1,6,5,1,Department of Public Safety
+82,1187,7,77,0,4,Female,Employed,High School,Mobile Data,2,1,10,7,1,Department of Housing
+83,1703,1,65,0,1,Male,Employed,Some College,Mobile Data,5,1,10,6,1,Department of Housing
+84,1285,1,60,0,1,Male,Employed,Bachelor,No Internet,5,1,7,10,1,Department of Housing
+85,957,9,54,0,4,Male,Employed,High School,Mobile Data,2,1,1,1,1,Department of Public Safety
+89,981,9,63,0,3,Male,Employed,High School,Broadband,3,1,1,1,1,Department of Public Safety
+91,1289,2,36,0,2,Female,Employed,Some College,Broadband,3,1,8,9,1,Department of Health and Human Services
+99,842,9,18,0,4,Male,Employed,Bachelor,Broadband,2,1,6,9,1,Department of Education
+106,1261,3,51,0,1,Male,Employed,Graduate,Broadband,2,1,6,8,1,Department of Housing
+113,1098,7,72,0,5,Male,Retired,Bachelor,Broadband,0,1,2,3,1,Department of Health and Human Services
+116,1350,4,42,0,1,Female,Employed,Bachelor,Broadband,5,1,3,2,1,Department of Public Safety
+118,549,3,50,0,3,Female,Retired,Some College,Broadband,1,1,2,4,1,Department of Education
+124,659,8,79,0,2,Male,Retired,High School,Mobile Data,0,1,8,5,1,Department of Education
+129,930,7,45,0,3,Male,Student,Some College,Broadband,0,1,5,1,1,Department of Education
+136,1425,3,36,0,2,Female,Employed,Bachelor,Broadband,2,1,6,6,1,Department of Education
+139,1384,2,74,0,4,Female,Employed,Some College,Broadband,2,1,10,9,1,Department of Health and Human Services
+148,624,3,51,0,3,Male,Employed,Some College,Broadband,2,1,2,8,1,Department of Housing
+154,1210,1,43,0,1,Female,Student,High School,Broadband,1,1,7,5,1,Department of Housing
+160,1277,9,79,0,4,Male,Unemployed,Bachelor,Broadband,1,1,4,1,1,Department of Public Safety
+165,1309,4,51,0,5,Male,Employed,Some College,Mobile Data,0,1,8,9,1,Department of Housing
+172,835,5,74,0,2,Female,Employed,Bachelor,Broadband,3,1,9,4,1,Department of Housing
+173,1177,7,40,0,4,Female,Employed,High School,Mobile Data,1,1,9,5,1,Department of Public Safety
+177,1084,4,22,0,5,Male,Employed,Bachelor,Broadband,1,1,6,8,1,Department of Health and Human Services
+199,1277,4,77,0,1,Female,Unemployed,High School,Broadband,5,1,9,10,1,Department of Public Safety
+207,1175,5,42,0,5,Female,Retired,High School,Broadband,0,1,1,6,1,Department of Public Safety
+211,1491,6,38,0,1,Male,Employed,Some College,Broadband,5,1,9,8,1,Department of Health and Human Services
+216,1488,1,63,0,1,Female,Employed,Some College,Broadband,4,1,5,8,1,Department of Public Safety
+226,1407,4,30,0,2,Male,Unemployed,Some College,Broadband,1,1,2,3,1,Department of Housing
+233,914,5,44,0,5,Female,Employed,Bachelor,Broadband,0,1,8,4,1,Department of Housing
+241,662,9,31,0,5,Female,Student,Some College,Mobile Data,0,1,1,2,1,Department of Education
+251,882,9,37,0,4,Male,Unemployed,Some College,Mobile Data,0,1,1,2,1,Department of Health and Human Services
+252,1355,1,66,0,2,Female,Employed,Some College,Broadband,2,1,4,6,1,Department of Housing
+253,1417,9,42,0,5,Female,Retired,High School,Broadband,0,1,4,1,1,Department of Education
+254,1630,9,57,0,3,Female,Unemployed,High School,Mobile Data,0,1,8,3,1,Department of Health and Human Services
+259,1153,6,40,0,1,Female,Unemployed,Some College,Broadband,5,1,7,3,1,Department of Education
+264,833,6,63,0,1,Male,Retired,Some College,Mobile Data,4,1,6,7,1,Department of Education
+270,1359,1,45,0,1,Female,Employed,Bachelor,No Internet,1,1,6,7,1,Department of Education
+290,593,9,57,0,5,Male,Retired,High School,Broadband,0,1,2,4,1,Department of Education
+304,1263,8,31,0,2,Female,Student,High School,Broadband,0,1,10,9,1,Department of Housing
+313,1448,1,58,0,3,Male,Employed,Bachelor,Broadband,1,1,9,9,1,Department of Health and Human Services
+315,1292,9,63,0,3,Male,Employed,Some College,Broadband,1,1,7,10,1,Department of Education
+316,906,6,39,0,3,Male,Employed,Some College,Broadband,0,1,8,9,1,Department of Education
+324,2068,6,65,0,1,Male,Employed,Some College,Mobile Data,4,1,3,1,1,Department of Health and Human Services
+336,796,9,54,0,4,Female,Employed,High School,Broadband,0,1,4,5,1,Department of Education
+339,1204,8,50,0,4,Female,Employed,Bachelor,Mobile Data,0,1,1,2,1,Department of Housing
+342,973,1,26,0,3,Female,Employed,Graduate,Broadband,0,1,7,10,1,Department of Education
+347,406,8,34,0,4,Female,Retired,High School,Broadband,0,1,8,10,1,Department of Education
+363,1107,9,58,0,5,Female,Employed,Some College,Mobile Data,0,1,7,3,1,Department of Public Safety
+364,1201,7,36,0,2,Male,Retired,Bachelor,Mobile Data,4,1,1,5,1,Department of Education
+371,967,8,68,0,2,Female,Unemployed,Bachelor,Broadband,1,1,9,10,1,Department of Education
+372,1529,2,55,0,1,Male,Employed,High School,Mobile Data,3,1,8,10,1,Department of Public Safety
+379,1797,3,24,0,3,Male,Employed,Some College,Broadband,2,1,9,10,1,Department of Public Safety
+388,1763,1,61,0,3,Male,Unemployed,High School,No Internet,2,1,9,6,1,Department of Education
+392,1228,3,44,0,5,Female,Unemployed,High School,Broadband,0,1,6,7,1,Department of Health and Human Services
+393,744,5,72,0,3,Female,Student,Graduate,Mobile Data,3,1,6,4,1,Department of Housing
+399,1286,1,23,0,1,Female,Retired,Some College,Broadband,5,1,5,10,1,Department of Health and Human Services
+423,1125,2,62,0,2,Female,Employed,Some College,Broadband,3,1,3,6,1,Department of Public Safety
+433,879,4,79,0,4,Male,Retired,High School,Mobile Data,0,1,7,3,1,Department of Education
+455,1161,1,34,0,2,Female,Unemployed,Bachelor,Mobile Data,2,1,4,5,1,Department of Public Safety
+463,1110,1,56,0,1,Female,Employed,Some College,Broadband,4,1,8,6,1,Department of Health and Human Services
+476,945,8,29,0,5,Female,Unemployed,High School,Broadband,1,1,4,7,1,Department of Public Safety
+477,1373,7,25,0,4,Male,Employed,High School,Mobile Data,0,1,3,7,1,Department of Public Safety
+480,1116,9,70,0,5,Male,Employed,Graduate,Broadband,0,1,10,10,1,Department of Education
+484,1141,3,65,0,4,Male,Retired,Bachelor,Mobile Data,0,1,6,5,1,Department of Housing
+489,1526,5,45,0,5,Male,Unemployed,Bachelor,Broadband,1,1,4,8,1,Department of Public Safety
+506,814,2,19,0,4,Male,Employed,Graduate,Mobile Data,2,1,4,4,1,Department of Education
+507,662,5,21,0,4,Male,Retired,High School,Broadband,0,1,4,2,1,Department of Education
+509,1155,7,50,0,4,Female,Student,Graduate,Broadband,1,1,9,10,1,Department of Health and Human Services
+512,1305,2,54,0,3,Female,Employed,Bachelor,Mobile Data,3,1,7,8,1,Department of Health and Human Services
+520,1125,4,29,0,5,Male,Student,Graduate,Broadband,0,1,6,5,1,Department of Housing
+521,459,5,75,0,4,Male,Employed,Some College,Broadband,1,1,6,10,1,Department of Housing
+529,1278,3,27,0,5,Female,Employed,High School,No Internet,1,1,9,7,1,Department of Housing
+536,1034,1,35,0,3,Male,Employed,Some College,Broadband,0,1,1,4,1,Department of Housing
+540,847,6,74,0,3,Non-binary,Employed,High School,Broadband,3,1,6,9,1,Department of Housing
+544,1692,6,37,0,4,Female,Student,Bachelor,Mobile Data,2,1,3,6,1,Department of Health and Human Services
+550,719,6,55,0,5,Male,Employed,Some College,Mobile Data,0,1,10,10,1,Department of Education
+557,934,2,58,0,2,Male,Retired,Some College,Broadband,4,1,8,3,1,Department of Housing
+561,1227,1,60,0,3,Male,Employed,Some College,Broadband,3,1,10,10,1,Department of Public Safety
+564,742,4,62,0,4,Male,Employed,Graduate,Broadband,1,1,5,5,1,Department of Education
+570,735,6,66,0,4,Female,Employed,Bachelor,Broadband,0,1,6,5,1,Department of Education
+572,1703,1,42,0,2,Female,Employed,High School,Broadband,3,1,6,10,1,Department of Public Safety
+586,1154,1,26,0,2,Female,Employed,Graduate,Broadband,1,1,7,6,1,Department of Housing
+587,1002,6,70,0,4,Male,Student,Bachelor,Broadband,0,1,6,10,1,Department of Health and Human Services
+593,1224,4,51,0,4,Male,Retired,Some College,Broadband,2,1,1,1,1,Department of Public Safety
+612,1243,1,50,0,1,Female,Retired,High School,Broadband,4,1,10,10,1,Department of Public Safety
+615,1994,4,51,0,1,Female,Retired,Graduate,Mobile Data,5,1,3,5,1,Department of Housing
+618,1478,1,54,0,2,Male,Employed,Some College,Broadband,3,1,7,8,1,Department of Health and Human Services
+623,1585,9,18,0,3,Female,Employed,Bachelor,Broadband,2,1,3,5,1,Department of Housing
+638,1042,9,79,0,5,Male,Employed,Some College,Mobile Data,0,1,2,6,1,Department of Housing
+647,151,4,69,0,4,Female,Employed,Bachelor,Broadband,0,1,8,5,1,Department of Housing
+649,1071,1,29,0,1,Female,Employed,Some College,Mobile Data,5,1,1,7,1,Department of Education
+650,1109,7,55,0,5,Male,Employed,High School,Broadband,0,1,4,3,1,Department of Housing
+655,1552,6,62,0,5,Male,Employed,Some College,Broadband,0,1,7,10,1,Department of Education
+673,917,1,68,0,3,Male,Retired,Graduate,Mobile Data,3,1,7,9,1,Department of Education
+679,1541,8,70,0,3,Female,Employed,Some College,Mobile Data,0,1,10,10,1,Department of Public Safety
+683,863,9,75,0,5,Male,Unemployed,Some College,Broadband,0,1,1,2,1,Department of Public Safety
+708,1906,1,21,0,2,Female,Employed,High School,Mobile Data,0,1,5,9,1,Department of Health and Human Services
+716,1351,1,39,0,3,Male,Employed,High School,Mobile Data,0,1,9,10,1,Department of Education
+725,1011,7,62,0,4,Male,Employed,High School,Broadband,1,1,9,9,1,Department of Housing
+726,1025,8,68,0,5,Female,Unemployed,Bachelor,Broadband,0,1,5,8,1,Department of Health and Human Services
+727,1146,9,75,0,4,Male,Employed,Graduate,Broadband,2,1,8,3,1,Department of Health and Human Services
+743,1013,2,30,0,3,Male,Employed,Graduate,Broadband,0,1,7,5,1,Department of Health and Human Services
+753,1087,1,35,0,1,Male,Unemployed,Some College,Mobile Data,1,1,3,4,1,Department of Public Safety
+755,735,1,39,0,3,Male,Unemployed,High School,Broadband,1,1,6,8,1,Department of Housing
+759,1122,8,36,0,2,Male,Unemployed,Some College,Mobile Data,1,1,3,6,1,Department of Health and Human Services
+771,1532,9,44,0,3,Male,Retired,High School,Mobile Data,2,1,9,5,1,Department of Health and Human Services
+776,789,9,62,0,4,Female,Unemployed,Some College,Mobile Data,0,1,9,9,1,Department of Health and Human Services
+780,1146,5,38,0,4,Male,Employed,Some College,Broadband,1,1,3,8,1,Department of Housing
+782,499,6,28,0,3,Female,Employed,Some College,Broadband,3,1,3,1,1,Department of Education
+783,1134,8,56,0,5,Female,Employed,High School,Broadband,0,1,5,8,1,Department of Public Safety
+784,1203,9,45,0,5,Male,Employed,High School,Broadband,0,1,5,6,1,Department of Public Safety
+792,1322,9,29,0,4,Male,Employed,High School,Mobile Data,1,1,2,2,1,Department of Health and Human Services
+799,1028,8,61,0,5,Male,Employed,High School,Broadband,0,1,6,5,1,Department of Public Safety
+809,1337,8,50,0,4,Male,Employed,High School,Mobile Data,1,1,8,10,1,Department of Education
+831,857,3,62,0,2,Male,Student,Some College,Broadband,1,1,2,1,1,Department of Health and Human Services
+835,1130,6,25,0,3,Female,Employed,Bachelor,Broadband,3,1,10,8,1,Department of Public Safety
+839,1495,3,34,0,4,Female,Unemployed,Some College,Mobile Data,2,1,3,8,1,Department of Public Safety
+854,1377,9,72,0,5,Male,Unemployed,Graduate,Broadband,0,1,4,3,1,Department of Public Safety
+856,969,9,67,0,4,Female,Retired,Bachelor,Broadband,0,1,2,3,1,Department of Health and Human Services
+861,1081,5,60,0,3,Male,Student,Bachelor,Broadband,3,1,8,10,1,Department of Housing
+873,666,1,52,0,2,Male,Unemployed,Some College,Broadband,1,1,10,5,1,Department of Housing
+875,950,9,47,0,4,Female,Retired,Graduate,Broadband,0,1,4,8,1,Department of Housing
+887,1255,7,47,0,2,Female,Unemployed,Graduate,Broadband,4,1,8,6,1,Department of Housing
+891,1506,5,53,0,3,Male,Unemployed,Some College,Mobile Data,2,1,2,3,1,Department of Public Safety
+937,474,7,51,0,5,Female,Employed,Some College,Broadband,0,1,10,6,1,Department of Education
+941,636,4,55,0,3,Female,Retired,High School,Mobile Data,1,1,2,4,1,Department of Education
+946,579,9,30,0,5,Female,Student,Some College,Broadband,0,1,10,7,1,Department of Housing
+963,1259,7,56,0,5,Male,Unemployed,Graduate,No Internet,0,1,4,1,1,Department of Housing
+973,1272,3,36,0,5,Female,Employed,Some College,Broadband,0,1,10,8,1,Department of Public Safety
+974,824,9,70,0,5,Male,Student,High School,Broadband,0,1,9,6,1,Department of Public Safety
+8,1430,4,44,1,1,Male,Employed,High School,Broadband,4,0,10,10,1,Department of Housing
+18,1234,5,73,1,5,Non-binary,Retired,High School,Broadband,2,0,2,2,1,Department of Health and Human Services
+22,1132,8,61,1,3,Female,Unemployed,Bachelor,Broadband,5,0,5,5,1,Department of Public Safety
+28,1073,8,56,1,5,Male,Employed,High School,Broadband,2,0,2,4,1,Department of Housing
+31,1019,5,42,1,1,Male,Student,Bachelor,Mobile Data,20,0,9,4,1,Department of Education
+34,823,4,60,1,4,Female,Unemployed,Graduate,Broadband,3,0,4,9,1,Department of Public Safety
+39,742,1,73,1,2,Female,Unemployed,Bachelor,Mobile Data,5,0,4,9,1,Department of Education
+49,1423,5,38,1,1,Female,Retired,High School,Broadband,5,0,10,10,1,Department of Public Safety
+53,1057,1,64,1,5,Female,Employed,Bachelor,No Internet,2,0,7,3,1,Department of Housing
+57,828,8,57,1,5,Female,Employed,Bachelor,Mobile Data,4,0,1,7,1,Department of Housing
+79,1288,1,25,1,2,Male,Student,Some College,Broadband,4,0,5,1,1,Department of Public Safety
+96,761,1,63,1,1,Male,Unemployed,Graduate,Broadband,7,0,6,7,1,Department of Housing
+111,384,3,48,1,5,Male,Unemployed,Graduate,Broadband,2,0,6,5,1,Department of Housing
+153,936,6,47,1,4,Female,Employed,Some College,Broadband,3,0,4,7,1,Department of Public Safety
+159,783,1,43,1,2,Female,Retired,Some College,Broadband,4,0,10,9,1,Department of Housing
+163,1848,1,52,1,1,Male,Employed,High School,Mobile Data,18,0,8,10,1,Department of Health and Human Services
+170,1094,5,75,1,2,Male,Retired,Bachelor,Broadband,5,0,4,4,1,Department of Health and Human Services
+179,1061,4,28,1,2,Female,Employed,Graduate,Broadband,3,0,8,7,1,Department of Housing
+181,1568,1,32,1,1,Male,Retired,Some College,Broadband,5,0,6,3,1,Department of Health and Human Services
+187,1282,2,33,1,2,Female,Employed,High School,Mobile Data,3,0,3,2,1,Department of Education
+192,1277,7,73,1,4,Male,Unemployed,Graduate,Mobile Data,2,0,10,10,1,Department of Education
+204,1396,5,20,1,5,Female,Student,Graduate,Mobile Data,2,0,10,10,1,Department of Housing
+240,1336,2,55,1,5,Non-binary,Employed,High School,Broadband,4,0,3,1,1,Department of Public Safety
+242,1166,2,53,1,1,Male,Student,High School,Broadband,4,0,2,4,1,Department of Housing
+245,720,4,79,1,1,Female,Retired,Graduate,Broadband,6,0,6,7,1,Department of Education
+280,1084,5,77,1,5,Male,Employed,Some College,Mobile Data,2,0,6,3,1,Department of Public Safety
+295,1487,1,73,1,1,Male,Employed,Some College,Broadband,6,0,8,3,1,Department of Health and Human Services
+335,1313,2,37,1,4,Female,Employed,Some College,Broadband,3,0,3,2,1,Department of Housing
+358,753,6,71,1,5,Female,Employed,Bachelor,Broadband,2,0,3,1,1,Department of Education
+366,1080,3,69,1,4,Female,Employed,High School,Broadband,2,0,3,5,1,Department of Health and Human Services
+383,503,7,39,1,4,Non-binary,Employed,Graduate,Mobile Data,4,0,7,7,1,Department of Housing
+400,1691,2,39,1,2,Male,Employed,Some College,Broadband,5,0,5,8,1,Department of Health and Human Services
+424,1311,2,37,1,2,Male,Employed,High School,Broadband,5,0,5,10,1,Department of Education
+426,1611,5,66,1,3,Female,Employed,High School,Broadband,4,0,9,10,1,Department of Public Safety
+436,1342,5,37,1,2,Male,Student,Some College,Broadband,6,0,2,1,1,Department of Health and Human Services
+445,989,1,59,1,2,Female,Unemployed,Some College,Mobile Data,5,0,9,7,1,Department of Public Safety
+449,986,5,58,1,2,Male,Unemployed,Bachelor,Mobile Data,5,0,6,3,1,Department of Education
+468,1427,5,28,1,5,Male,Employed,Bachelor,Mobile Data,4,0,5,6,1,Department of Public Safety
+500,665,3,40,1,5,Male,Employed,Bachelor,Broadband,2,0,9,4,1,Department of Public Safety
+531,1512,1,68,1,1,Male,Employed,Some College,Broadband,4,0,6,6,1,Department of Public Safety
+539,1442,8,26,1,5,Female,Employed,High School,Broadband,4,0,10,10,1,Department of Health and Human Services
+556,1016,1,34,1,2,Male,Employed,Some College,Mobile Data,3,0,10,6,1,Department of Education
+560,1074,2,52,1,1,Male,Employed,Graduate,Mobile Data,4,0,10,10,1,Department of Education
+581,1422,4,35,1,2,Female,Employed,Some College,Broadband,7,0,7,7,1,Department of Health and Human Services
+585,1255,5,72,1,1,Female,Employed,Some College,Broadband,6,0,8,4,1,Department of Housing
+614,922,1,56,1,2,Female,Unemployed,High School,Broadband,4,0,2,5,1,Department of Public Safety
+635,776,4,64,1,5,Male,Employed,Graduate,Broadband,2,0,9,5,1,Department of Public Safety
+648,1484,3,73,1,1,Male,Employed,Some College,Mobile Data,17,0,1,3,1,Department of Health and Human Services
+651,1875,4,18,1,4,Female,Retired,Some College,Mobile Data,2,0,7,4,1,Department of Health and Human Services
+660,1157,4,41,1,5,Female,Student,Bachelor,Mobile Data,2,0,8,9,1,Department of Public Safety
+671,1334,8,44,1,5,Male,Employed,Bachelor,Broadband,2,0,3,8,1,Department of Housing
+711,1263,1,58,1,1,Female,Student,Bachelor,Broadband,6,0,4,5,1,Department of Housing
+722,747,6,59,1,3,Male,Unemployed,Bachelor,Broadband,4,0,5,8,1,Department of Health and Human Services
+750,658,8,34,1,3,Male,Employed,Bachelor,Broadband,2,0,5,5,1,Department of Housing
+769,1012,4,71,1,4,Male,Employed,Bachelor,Broadband,2,0,4,1,1,Department of Health and Human Services
+786,1524,1,34,1,1,Female,Employed,Graduate,Broadband,7,0,9,10,1,Department of Housing
+812,948,1,40,1,1,Male,Employed,High School,Broadband,7,0,1,1,1,Department of Education
+822,1323,2,31,1,4,Female,Employed,Graduate,Broadband,2,0,1,1,1,Department of Education
+847,1227,1,76,1,2,Male,Retired,Some College,Mobile Data,6,0,6,9,1,Department of Education
+859,1214,1,46,1,3,Male,Employed,Some College,Mobile Data,6,0,3,5,1,Department of Health and Human Services
+868,1180,8,33,1,3,Female,Unemployed,High School,Broadband,4,0,7,3,1,Department of Housing
+878,1207,6,64,1,4,Male,Employed,High School,Broadband,5,0,6,8,1,Department of Public Safety
+900,775,6,22,1,4,Female,Employed,Bachelor,Broadband,2,0,3,3,1,Department of Housing
+936,1229,1,72,1,1,Female,Unemployed,High School,Broadband,7,0,10,10,1,Department of Health and Human Services
+949,1066,8,48,1,5,Female,Employed,High School,Broadband,2,0,7,3,1,Department of Public Safety
+967,1057,1,34,1,2,Female,Unemployed,Some College,Broadband,7,0,9,10,1,Department of Public Safety
+999,1269,1,70,1,1,Female,Employed,Some College,Mobile Data,6,0,3,5,1,Department of Public Safety
+4,1597,3,39,1,4,Female,Retired,Some College,Broadband,4,1,4,9,1,Department of Housing
+103,1277,7,38,1,3,Male,Unemployed,Some College,Broadband,3,1,7,9,1,Department of Health and Human Services
+143,958,1,61,1,2,Male,Unemployed,Bachelor,Broadband,6,1,4,4,1,Department of Health and Human Services
+157,1760,1,45,1,1,Male,Employed,Some College,Broadband,7,1,9,9,1,Department of Education
+178,1636,8,61,1,3,Male,Employed,Graduate,Mobile Data,3,1,10,10,1,Department of Education
+214,1695,3,70,1,2,Female,Employed,Some College,Mobile Data,6,1,5,10,1,Department of Public Safety
+223,1226,2,26,1,4,Male,Unemployed,High School,Broadband,3,1,5,10,1,Department of Education
+261,802,3,65,1,5,Female,Retired,Some College,Broadband,1,1,6,10,1,Department of Housing
+262,1422,3,74,1,2,Female,Employed,High School,Broadband,3,1,3,8,1,Department of Health and Human Services
+263,552,5,36,1,4,Male,Unemployed,Graduate,Mobile Data,2,1,7,9,1,Department of Public Safety
+320,1341,3,33,1,2,Female,Employed,High School,Broadband,3,1,8,5,1,Department of Public Safety
+404,1214,1,78,1,1,Male,Employed,Bachelor,Broadband,6,1,8,10,1,Department of Education
+414,1703,1,74,1,1,Female,Retired,Graduate,Broadband,3,1,7,7,1,Department of Housing
+443,760,8,66,1,5,Female,Employed,Some College,Mobile Data,2,1,6,6,1,Department of Health and Human Services
+446,1401,1,60,1,1,Female,Retired,Graduate,Broadband,7,1,9,4,1,Department of Education
+490,1464,5,75,1,3,Male,Employed,Bachelor,Mobile Data,2,1,8,9,1,Department of Education
+498,1263,3,62,1,5,Male,Retired,Graduate,Mobile Data,2,1,7,10,1,Department of Public Safety
+513,1248,8,36,1,4,Male,Retired,Bachelor,Broadband,1,1,10,6,1,Department of Health and Human Services
+554,1636,4,57,1,5,Female,Unemployed,High School,No Internet,1,1,4,3,1,Department of Health and Human Services
+555,1241,7,19,1,4,Female,Employed,Some College,Broadband,1,1,4,3,1,Department of Housing
+592,1297,1,61,1,2,Male,Employed,Some College,Broadband,2,1,6,10,1,Department of Health and Human Services
+608,1007,3,74,1,2,Female,Unemployed,High School,Mobile Data,2,1,8,10,1,Department of Housing
+627,843,1,36,1,2,Female,Student,Bachelor,Broadband,3,1,7,7,1,Department of Education
+665,746,8,21,1,5,Male,Student,Graduate,Broadband,3,1,4,1,1,Department of Education
+674,1209,2,67,1,4,Male,Employed,Graduate,Broadband,3,1,9,10,1,Department of Health and Human Services
+677,1107,1,78,1,1,Female,Unemployed,High School,Broadband,7,1,6,10,1,Department of Public Safety
+680,1941,4,47,1,1,Male,Employed,High School,Mobile Data,6,1,10,10,1,Department of Public Safety
+685,893,8,54,1,4,Male,Unemployed,High School,Broadband,4,1,5,8,1,Department of Public Safety
+798,1764,1,65,1,1,Female,Retired,Graduate,Mobile Data,6,1,5,2,1,Department of Public Safety
+813,1754,6,32,1,3,Male,Employed,High School,Broadband,3,1,6,5,1,Department of Public Safety
+857,1130,1,49,1,2,Male,Employed,Some College,Broadband,6,1,10,7,1,Department of Public Safety
+906,1214,1,19,1,1,Female,Retired,High School,Broadband,7,1,3,2,1,Department of Education
+910,1789,8,51,1,4,Female,Employed,High School,Mobile Data,4,1,3,6,1,Department of Education
+917,1322,5,28,1,4,Female,Unemployed,High School,Broadband,1,1,10,5,1,Department of Housing
+951,1308,1,51,1,2,Female,Employed,High School,Mobile Data,6,1,6,10,1,Department of Housing
